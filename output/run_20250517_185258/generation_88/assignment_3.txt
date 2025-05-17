@@ -1,0 +1,34 @@
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [9, 8, 7, 10, 12, 11]
+9 got project satisfaction score 1.0, since Voice was their Choice 1
+8 got project satisfaction score 1.0, since Voice was their Choice 1
+7 got project satisfaction score 1.0, since Voice was their Choice 1
+10 got project satisfaction score 1.0, since Voice was their Choice 1
+12 got project satisfaction score 1.0, since Voice was their Choice 1
+11 got project satisfaction score 1.0, since Voice was their Choice 1
+-> Average satisfaction for project 'Voice': 1.00
+Belbin Roles: ['IMP', 'SHA', 'SHA', 'TEA', 'TEA', 'TEA']
+-> Diversity score: 0.61
+
+-> Overall score: 0.81
+
+Team ID: Shotmaniacs 1
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [4, 6, 3, 2, 5, 1]
+4 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+6 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+3 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+2 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+5 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+1 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+-> Average satisfaction for project 'Shotmaniacs': 0.80
+Belbin Roles: ['PLA', 'SPE', 'MON', 'IMP', 'SHA', 'PLA']
+-> Diversity score: 0.78
+
+-> Overall score: 0.79
+
+
+Final score for arrangement 3: 0.7972

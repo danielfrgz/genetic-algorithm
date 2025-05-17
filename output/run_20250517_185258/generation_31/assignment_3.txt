@@ -1,0 +1,34 @@
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [8, 7, 10, 12, 1, 11]
+8 got project satisfaction score 1.0, since Voice was their Choice 1
+7 got project satisfaction score 1.0, since Voice was their Choice 1
+10 got project satisfaction score 1.0, since Voice was their Choice 1
+12 got project satisfaction score 1.0, since Voice was their Choice 1
+1 got project satisfaction score 0.4, since Voice was their Choice 4
+11 got project satisfaction score 1.0, since Voice was their Choice 1
+-> Average satisfaction for project 'Voice': 0.90
+Belbin Roles: ['SHA', 'SHA', 'TEA', 'TEA', 'PLA', 'TEA']
+-> Diversity score: 0.61
+
+-> Overall score: 0.76
+
+Team ID: actFact 1
+========================================
+Evaluating team for project: actFact
+Members: [3, 6, 5, 2, 4, 9]
+3 got project satisfaction score 1.0, since actFact was their Choice 1
+6 got project satisfaction score 1.0, since actFact was their Choice 1
+5 got project satisfaction score 1.0, since actFact was their Choice 1
+2 got project satisfaction score 1.0, since actFact was their Choice 1
+4 got project satisfaction score 1.0, since actFact was their Choice 1
+9 got project satisfaction score 0.8, since actFact was their Choice 2
+-> Average satisfaction for project 'actFact': 0.97
+Belbin Roles: ['MON', 'SPE', 'SHA', 'IMP', 'PLA', 'IMP']
+-> Diversity score: 0.78
+
+-> Overall score: 0.87
+
+
+Final score for arrangement 3: 0.8139

@@ -1,0 +1,34 @@
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [9, 8, 7, 10, 12, 4]
+9 got project satisfaction score 1.0, since Voice was their Choice 1
+8 got project satisfaction score 1.0, since Voice was their Choice 1
+7 got project satisfaction score 1.0, since Voice was their Choice 1
+10 got project satisfaction score 1.0, since Voice was their Choice 1
+12 got project satisfaction score 1.0, since Voice was their Choice 1
+4 got project satisfaction score 0.4, since Voice was their Choice 4
+-> Average satisfaction for project 'Voice': 0.90
+Belbin Roles: ['IMP', 'SHA', 'SHA', 'TEA', 'TEA', 'PLA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.81
+
+Team ID: Earnit 1
+========================================
+Evaluating team for project: Earnit
+Members: [2, 11, 3, 5, 6, 1]
+2 got project satisfaction score 0.0 (No matching choice)
+11 got project satisfaction score 0.4, since Earnit was their Choice 4
+3 got project satisfaction score 0.0 (No matching choice)
+5 got project satisfaction score 0.0 (No matching choice)
+6 got project satisfaction score 0.0 (No matching choice)
+1 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Earnit': 0.07
+Belbin Roles: ['IMP', 'TEA', 'MON', 'SHA', 'SPE', 'PLA']
+-> Diversity score: 0.83
+
+-> Overall score: 0.45
+
+
+Final score for arrangement 3: 0.6306

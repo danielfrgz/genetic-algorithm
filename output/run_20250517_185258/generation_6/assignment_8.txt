@@ -1,0 +1,34 @@
+Team ID: actFact 2
+========================================
+Evaluating team for project: actFact
+Members: [4, 12, 1, 2, 5, 11]
+4 got project satisfaction score 1.0, since actFact was their Choice 1
+12 got project satisfaction score 0.8, since actFact was their Choice 2
+1 got project satisfaction score 1.0, since actFact was their Choice 1
+2 got project satisfaction score 1.0, since actFact was their Choice 1
+5 got project satisfaction score 1.0, since actFact was their Choice 1
+11 got project satisfaction score 0.8, since actFact was their Choice 2
+-> Average satisfaction for project 'actFact': 0.93
+Belbin Roles: ['PLA', 'TEA', 'PLA', 'IMP', 'SHA', 'TEA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.83
+
+Team ID: Inter-actief 1
+========================================
+Evaluating team for project: Inter-actief
+Members: [3, 10, 7, 8, 9, 6]
+3 got project satisfaction score 0.0 (No matching choice)
+10 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+7 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+8 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+9 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+6 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Inter-actief': 0.13
+Belbin Roles: ['MON', 'TEA', 'SHA', 'SHA', 'IMP', 'SPE']
+-> Diversity score: 0.78
+
+-> Overall score: 0.46
+
+
+Final score for arrangement 8: 0.6417

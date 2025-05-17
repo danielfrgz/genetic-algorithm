@@ -1,0 +1,34 @@
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [9, 8, 10, 12, 1, 6]
+9 got project satisfaction score 1.0, since Voice was their Choice 1
+8 got project satisfaction score 1.0, since Voice was their Choice 1
+10 got project satisfaction score 1.0, since Voice was their Choice 1
+12 got project satisfaction score 1.0, since Voice was their Choice 1
+1 got project satisfaction score 0.4, since Voice was their Choice 4
+6 got project satisfaction score 0.4, since Voice was their Choice 4
+-> Average satisfaction for project 'Voice': 0.80
+Belbin Roles: ['IMP', 'SHA', 'TEA', 'TEA', 'PLA', 'SPE']
+-> Diversity score: 0.78
+
+-> Overall score: 0.79
+
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [4, 5, 2, 3, 11, 7]
+4 got project satisfaction score 0.2, since Topicus was their Choice 5
+5 got project satisfaction score 0.2, since Topicus was their Choice 5
+2 got project satisfaction score 0.2, since Topicus was their Choice 5
+3 got project satisfaction score 0.2, since Topicus was their Choice 5
+11 got project satisfaction score 0.0 (No matching choice)
+7 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Topicus': 0.13
+Belbin Roles: ['PLA', 'SHA', 'IMP', 'MON', 'TEA', 'SHA']
+-> Diversity score: 0.78
+
+-> Overall score: 0.46
+
+
+Final score for arrangement 7: 0.6222

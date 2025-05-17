@@ -1,0 +1,34 @@
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [9, 8, 10, 12, 1, 6]
+9 got project satisfaction score 1.0, since Voice was their Choice 1
+8 got project satisfaction score 1.0, since Voice was their Choice 1
+10 got project satisfaction score 1.0, since Voice was their Choice 1
+12 got project satisfaction score 1.0, since Voice was their Choice 1
+1 got project satisfaction score 0.4, since Voice was their Choice 4
+6 got project satisfaction score 0.4, since Voice was their Choice 4
+-> Average satisfaction for project 'Voice': 0.80
+Belbin Roles: ['IMP', 'SHA', 'TEA', 'TEA', 'PLA', 'SPE']
+-> Diversity score: 0.78
+
+-> Overall score: 0.79
+
+Team ID: Inter-actief 1
+========================================
+Evaluating team for project: Inter-actief
+Members: [4, 11, 2, 5, 3, 7]
+4 got project satisfaction score 0.0 (No matching choice)
+11 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+2 got project satisfaction score 0.0 (No matching choice)
+5 got project satisfaction score 0.0 (No matching choice)
+3 got project satisfaction score 0.0 (No matching choice)
+7 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+-> Average satisfaction for project 'Inter-actief': 0.07
+Belbin Roles: ['PLA', 'TEA', 'IMP', 'SHA', 'MON', 'SHA']
+-> Diversity score: 0.78
+
+-> Overall score: 0.42
+
+
+Final score for arrangement 4: 0.6056

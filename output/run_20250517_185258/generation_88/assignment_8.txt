@@ -1,0 +1,34 @@
+Team ID: actFact 2
+========================================
+Evaluating team for project: actFact
+Members: [6, 2, 5, 3, 11, 7]
+6 got project satisfaction score 1.0, since actFact was their Choice 1
+2 got project satisfaction score 1.0, since actFact was their Choice 1
+5 got project satisfaction score 1.0, since actFact was their Choice 1
+3 got project satisfaction score 1.0, since actFact was their Choice 1
+11 got project satisfaction score 0.8, since actFact was their Choice 2
+7 got project satisfaction score 0.8, since actFact was their Choice 2
+-> Average satisfaction for project 'actFact': 0.93
+Belbin Roles: ['SPE', 'IMP', 'SHA', 'MON', 'TEA', 'SHA']
+-> Diversity score: 0.78
+
+-> Overall score: 0.86
+
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [10, 12, 9, 1, 8, 4]
+10 got project satisfaction score 0.0 (No matching choice)
+12 got project satisfaction score 0.0 (No matching choice)
+9 got project satisfaction score 0.0 (No matching choice)
+1 got project satisfaction score 0.2, since Topicus was their Choice 5
+8 got project satisfaction score 0.0 (No matching choice)
+4 got project satisfaction score 0.2, since Topicus was their Choice 5
+-> Average satisfaction for project 'Topicus': 0.07
+Belbin Roles: ['TEA', 'TEA', 'IMP', 'PLA', 'SHA', 'PLA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.39
+
+
+Final score for arrangement 8: 0.6250
