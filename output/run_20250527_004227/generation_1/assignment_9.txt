@@ -1,0 +1,47 @@
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [13, 3, 8, 7, 14]
+13 got project satisfaction score 0.6, since Voice was their Choice 3
+3 got project satisfaction score 0.0 (No matching choice)
+8 got project satisfaction score 1.0, since Voice was their Choice 1
+7 got project satisfaction score 1.0, since Voice was their Choice 1
+14 got project satisfaction score 0.6, since Voice was their Choice 3
+-> Average satisfaction for project 'Voice': 0.64
+Belbin Roles: ['COM', 'COM', 'RES', 'COM', 'SPE']
+-> Diversity score: 0.56
+
+-> Overall score: 0.60
+
+Team ID: Shotmaniacs 1
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [10, 4, 9, 2, 15]
+10 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+4 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+9 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+2 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+15 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Shotmaniacs': 0.72
+Belbin Roles: ['COO', 'TEA', 'COO', 'SPE', 'TEA']
+-> Diversity score: 0.64
+
+-> Overall score: 0.68
+
+Team ID: Inter-actief 1
+========================================
+Evaluating team for project: Inter-actief
+Members: [5, 12, 1, 11, 6]
+5 got project satisfaction score 0.0 (No matching choice)
+12 got project satisfaction score 0.0 (No matching choice)
+1 got project satisfaction score 0.0 (No matching choice)
+11 got project satisfaction score 0.0 (No matching choice)
+6 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Inter-actief': 0.00
+Belbin Roles: ['SPE', 'SPE', 'IMP', 'COO', 'COO']
+-> Diversity score: 0.64
+
+-> Overall score: 0.32
+
+
+Final score for arrangement 9: 0.5333

@@ -24,7 +24,7 @@ def is_valid_team(members):
 def is_valid_arrangement(team_arrangement, total_students, projects):
 
     # Rules 1-3:
-    if not all(is_valid_team(team) for team in team_arrangement):
+    if not all(is_valid_team(team.members) for team in team_arrangement):
         return False
 
     # Rule 4: Each student must be in exactly one team.

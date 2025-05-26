@@ -1,0 +1,11 @@
+Performance log for run: run_20250527_004227
+Optimal score: 0.8400
+
+Generation 0: Best score = 0.6200 | Efficiency = 73.81% | Total Computations: [0] of 43261218 Possible Combinations
+Generation 1: Best score = 0.7267 | Efficiency = 86.51% | Total Computations: [28] of 43261218 Possible Combinations
+Generation 2: Best score = 0.7267 | Efficiency = 86.51% | Total Computations: [46] of 43261218 Possible Combinations
+Generation 3: Best score = 0.7867 | Efficiency = 93.65% | Total Computations: [65] of 43261218 Possible Combinations
+Generation 4: Best score = 0.7867 | Efficiency = 93.65% | Total Computations: [87] of 43261218 Possible Combinations
+Generation 5: Best score = 0.7867 | Efficiency = 93.65% | Total Computations: [107] of 43261218 Possible Combinations
+Generation 6: Best score = 0.7867 | Efficiency = 93.65% | Total Computations: [126] of 43261218 Possible Combinations
+Generation 7: Best score = 0.8400 | Efficiency = 100.00% | Total Computations: [146] of 43261218 Possible Combinations

@@ -1,0 +1,47 @@
+Team ID: actFact 1
+========================================
+Evaluating team for project: actFact
+Members: [13, 5, 12, 15, 3]
+13 got project satisfaction score 1.0, since actFact was their Choice 1
+5 got project satisfaction score 0.6, since actFact was their Choice 3
+12 got project satisfaction score 1.0, since actFact was their Choice 1
+15 got project satisfaction score 1.0, since actFact was their Choice 1
+3 got project satisfaction score 0.6, since actFact was their Choice 3
+-> Average satisfaction for project 'actFact': 0.84
+Belbin Roles: ['COM', 'SPE', 'SPE', 'TEA', 'COM']
+-> Diversity score: 0.64
+
+-> Overall score: 0.74
+
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [8, 7, 14, 10, 11]
+8 got project satisfaction score 1.0, since Voice was their Choice 1
+7 got project satisfaction score 1.0, since Voice was their Choice 1
+14 got project satisfaction score 0.6, since Voice was their Choice 3
+10 got project satisfaction score 1.0, since Voice was their Choice 1
+11 got project satisfaction score 0.6, since Voice was their Choice 3
+-> Average satisfaction for project 'Voice': 0.84
+Belbin Roles: ['RES', 'COM', 'SPE', 'COO', 'COO']
+-> Diversity score: 0.72
+
+-> Overall score: 0.78
+
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [9, 1, 6, 4, 2]
+9 got project satisfaction score 0.4, since Topicus was their Choice 4
+1 got project satisfaction score 0.0 (No matching choice)
+6 got project satisfaction score 0.4, since Topicus was their Choice 4
+4 got project satisfaction score 0.0 (No matching choice)
+2 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Topicus': 0.16
+Belbin Roles: ['COO', 'IMP', 'COO', 'TEA', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.44
+
+
+Final score for arrangement 4: 0.6533

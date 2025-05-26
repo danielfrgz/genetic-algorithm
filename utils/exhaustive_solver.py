@@ -9,6 +9,7 @@ import io
 import os
 from contextlib import redirect_stdout
 import math
+import time
 
 PROJECTS = ['Shotmaniacs', 'actFact', 'Honours Programme', 'Voice', 'Topicus', 'Earnit', 'Inter-actief']
 
@@ -30,8 +31,6 @@ def generate_valid_partitions(students, team_sizes=(5, 6)):
     valid_team_size_combos = team_size_combinations(n, team_sizes)
 
     # Step 2: For each team size combo, yield all valid partitions
-    from itertools import permutations
-
     def partition_by_sizes(remaining_students, sizes):
         if not sizes:
             yield []
@@ -105,14 +104,23 @@ def find_best_arrangement(df, dataset_path):
                     try:
                         score_str = line.strip().split(":")[-1]
                         score = float(score_str)
-                        return None, score
                     except ValueError:
                         pass
+                if "Evaluated combinations" in line:
+                    try:
+                        count_str = line.strip().split(":")[-1]
+                        arrangements_computed = float(count_str)
+                    except ValueError:
+                        pass
+            return None, score, arrangements_computed
+        
+    start_time = time.time()
 
     students = df.to_dict(orient='records')
     best_score = -1
     best_arrangement = None
     total_students = len(df)
+    evaluated_count = 0
 
     partitions = generate_valid_partitions(students)
 
@@ -121,6 +129,7 @@ def find_best_arrangement(df, dataset_path):
             continue
 
         for project_assignment in generate_project_assignments(len(team_partition), PROJECTS):
+            evaluated_count += 1
             if not is_valid_project_assignment(project_assignment, PROJECTS):
                 continue
 
@@ -137,5 +146,10 @@ def find_best_arrangement(df, dataset_path):
                 best_score = score
                 best_arrangement = deepcopy(team_assignments)
 
+    end_time = time.time()
+    execution_time = end_time - start_time
     save_best_arrangement(best_arrangement, df, dataset_name) # Outputs best arrangement
-    return best_arrangement, best_score
+    with open(os.path.join("output", f"optimal_arrangement_{dataset_name}.txt"), "a") as f: # Log evaluated combinations
+        f.write(f"\nEvaluated combinations: {evaluated_count}\n")
+        f.write(f"\nExecution Time: {execution_time:.4f} seconds\n")
+    return best_arrangement, best_score, evaluated_count

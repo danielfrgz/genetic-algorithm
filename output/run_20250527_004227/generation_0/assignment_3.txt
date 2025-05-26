@@ -1,0 +1,47 @@
+Team ID: Inter-actief 1
+========================================
+Evaluating team for project: Inter-actief
+Members: [12, 5, 8, 7, 10]
+12 got project satisfaction score 0.0 (No matching choice)
+5 got project satisfaction score 0.0 (No matching choice)
+8 got project satisfaction score 0.0 (No matching choice)
+7 got project satisfaction score 0.0 (No matching choice)
+10 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Inter-actief': 0.00
+Belbin Roles: ['SPE', 'SPE', 'RES', 'COM', 'COO']
+-> Diversity score: 0.72
+
+-> Overall score: 0.36
+
+Team ID: Inter-actief 2
+========================================
+Evaluating team for project: Inter-actief
+Members: [6, 14, 9, 2, 1]
+6 got project satisfaction score 0.0 (No matching choice)
+14 got project satisfaction score 0.0 (No matching choice)
+9 got project satisfaction score 0.0 (No matching choice)
+2 got project satisfaction score 0.0 (No matching choice)
+1 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Inter-actief': 0.00
+Belbin Roles: ['COO', 'SPE', 'COO', 'SPE', 'IMP']
+-> Diversity score: 0.64
+
+-> Overall score: 0.32
+
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [3, 11, 4, 15, 13]
+3 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+11 got project satisfaction score 0.0 (No matching choice)
+4 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+15 got project satisfaction score 0.0 (No matching choice)
+13 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Honours Programme': 0.32
+Belbin Roles: ['COM', 'COO', 'TEA', 'TEA', 'COM']
+-> Diversity score: 0.64
+
+-> Overall score: 0.48
+
+
+Final score for arrangement 3: 0.3867
