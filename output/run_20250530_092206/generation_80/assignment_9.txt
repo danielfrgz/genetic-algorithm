@@ -1,0 +1,47 @@
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [123, 6, 109, 121, 86]
+123 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+6 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+109 got project satisfaction score 1.0, since Honours Programme was their Choice 1
+121 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+86 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Honours Programme': 0.64
+Belbin Roles: ['TEA', 'SPE', 'SHA', 'COO', 'MON']
+-> Diversity score: 0.80
+
+-> Overall score: 0.72
+
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [150, 94, 93, 249, 404]
+150 got project satisfaction score 1.0, since Voice was their Choice 1
+94 got project satisfaction score 1.0, since Voice was their Choice 1
+93 got project satisfaction score 1.0, since Voice was their Choice 1
+249 got project satisfaction score 0.8, since Voice was their Choice 2
+404 got project satisfaction score 1.0, since Voice was their Choice 1
+-> Average satisfaction for project 'Voice': 0.96
+Belbin Roles: ['SPE', 'IMP', 'PLA', 'COO', 'MON']
+-> Diversity score: 0.80
+
+-> Overall score: 0.88
+
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [140, 5, 393, 7, 164]
+140 got project satisfaction score 0.6, since Topicus was their Choice 3
+5 got project satisfaction score 0.2, since Topicus was their Choice 5
+393 got project satisfaction score 0.6, since Topicus was their Choice 3
+7 got project satisfaction score 0.4, since Topicus was their Choice 4
+164 got project satisfaction score 0.2, since Topicus was their Choice 5
+-> Average satisfaction for project 'Topicus': 0.40
+Belbin Roles: ['TEA', 'SHA', 'MON', 'IMP', 'PLA']
+-> Diversity score: 0.80
+
+-> Overall score: 0.60
+
+
+Final score for arrangement 9: 0.7333

@@ -1,0 +1,47 @@
+Team ID: Voice 2
+========================================
+Evaluating team for project: Voice
+Members: [7, 123, 150, 109, 164]
+7 got project satisfaction score 0.8, since Voice was their Choice 2
+123 got project satisfaction score 0.0 (No matching choice)
+150 got project satisfaction score 1.0, since Voice was their Choice 1
+109 got project satisfaction score 0.6, since Voice was their Choice 3
+164 got project satisfaction score 0.8, since Voice was their Choice 2
+-> Average satisfaction for project 'Voice': 0.64
+Belbin Roles: ['IMP', 'TEA', 'SPE', 'SHA', 'PLA']
+-> Diversity score: 0.80
+
+-> Overall score: 0.72
+
+Team ID: Inter-actief 1
+========================================
+Evaluating team for project: Inter-actief
+Members: [140, 94, 121, 6, 393]
+140 got project satisfaction score 1.0, since Inter-actief was their Choice 1
+94 got project satisfaction score 0.0 (No matching choice)
+121 got project satisfaction score 0.4, since Inter-actief was their Choice 4
+6 got project satisfaction score 0.0 (No matching choice)
+393 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Inter-actief': 0.28
+Belbin Roles: ['TEA', 'IMP', 'COO', 'SPE', 'MON']
+-> Diversity score: 0.80
+
+-> Overall score: 0.54
+
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [404, 93, 5, 86, 249]
+404 got project satisfaction score 0.4, since Topicus was their Choice 4
+93 got project satisfaction score 0.0 (No matching choice)
+5 got project satisfaction score 0.2, since Topicus was their Choice 5
+86 got project satisfaction score 0.8, since Topicus was their Choice 2
+249 got project satisfaction score 0.6, since Topicus was their Choice 3
+-> Average satisfaction for project 'Topicus': 0.40
+Belbin Roles: ['MON', 'PLA', 'SHA', 'MON', 'COO']
+-> Diversity score: 0.72
+
+-> Overall score: 0.56
+
+
+Final score for arrangement 8: 0.6067

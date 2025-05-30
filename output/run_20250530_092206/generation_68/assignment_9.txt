@@ -1,0 +1,47 @@
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [7, 121, 94, 164, 5]
+7 got project satisfaction score 0.8, since Voice was their Choice 2
+121 got project satisfaction score 0.0 (No matching choice)
+94 got project satisfaction score 1.0, since Voice was their Choice 1
+164 got project satisfaction score 0.8, since Voice was their Choice 2
+5 got project satisfaction score 0.4, since Voice was their Choice 4
+-> Average satisfaction for project 'Voice': 0.60
+Belbin Roles: ['IMP', 'COO', 'IMP', 'PLA', 'SHA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.66
+
+Team ID: Voice 2
+========================================
+Evaluating team for project: Voice
+Members: [86, 109, 140, 249, 404]
+86 got project satisfaction score 0.4, since Voice was their Choice 4
+109 got project satisfaction score 0.6, since Voice was their Choice 3
+140 got project satisfaction score 0.2, since Voice was their Choice 5
+249 got project satisfaction score 0.8, since Voice was their Choice 2
+404 got project satisfaction score 1.0, since Voice was their Choice 1
+-> Average satisfaction for project 'Voice': 0.60
+Belbin Roles: ['MON', 'SHA', 'TEA', 'COO', 'MON']
+-> Diversity score: 0.72
+
+-> Overall score: 0.66
+
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [123, 150, 393, 6, 93]
+123 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+150 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+393 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+6 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+93 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Honours Programme': 0.44
+Belbin Roles: ['TEA', 'SPE', 'MON', 'SPE', 'PLA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.58
+
+
+Final score for arrangement 9: 0.6333

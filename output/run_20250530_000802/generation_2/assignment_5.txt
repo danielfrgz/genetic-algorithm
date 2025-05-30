@@ -1,0 +1,47 @@
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [1, 16, 54, 397, 323]
+1 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+16 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+54 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+397 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+323 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+-> Average satisfaction for project 'Honours Programme': 0.60
+Belbin Roles: ['PLA', 'TEA', 'COM', 'COO', 'COM']
+-> Diversity score: 0.72
+
+-> Overall score: 0.66
+
+Team ID: Shotmaniacs 1
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [341, 263, 13, 8, 9]
+341 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+263 got project satisfaction score 0.4, since Shotmaniacs was their Choice 4
+13 got project satisfaction score 0.0 (No matching choice)
+8 got project satisfaction score 0.6, since Shotmaniacs was their Choice 3
+9 got project satisfaction score 0.6, since Shotmaniacs was their Choice 3
+-> Average satisfaction for project 'Shotmaniacs': 0.52
+Belbin Roles: ['PLA', 'IMP', 'SHA', 'SPE', 'TEA']
+-> Diversity score: 0.80
+
+-> Overall score: 0.66
+
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [4, 26, 295, 273, 258]
+4 got project satisfaction score 0.4, since Voice was their Choice 4
+26 got project satisfaction score 1.0, since Voice was their Choice 1
+295 got project satisfaction score 0.4, since Voice was their Choice 4
+273 got project satisfaction score 0.8, since Voice was their Choice 2
+258 got project satisfaction score 0.4, since Voice was their Choice 4
+-> Average satisfaction for project 'Voice': 0.60
+Belbin Roles: ['PLA', 'COM', 'PLA', 'PLA', 'IMP']
+-> Diversity score: 0.56
+
+-> Overall score: 0.58
+
+
+Final score for arrangement 5: 0.6333

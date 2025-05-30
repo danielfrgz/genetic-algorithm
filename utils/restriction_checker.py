@@ -6,7 +6,7 @@ def is_valid_team(members):
     if student_count not in [5, 6]:
         return False
 
-    tcs_count = sum(1 for member in members if member.get('Program') == 'B-TCS')
+    tcs_count = sum(1 for member in members if 'TCS' in member.get('Program'))
     if tcs_count > 4:
         return False
 

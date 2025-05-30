@@ -1,0 +1,47 @@
+Team ID: Earnit 1
+========================================
+Evaluating team for project: Earnit
+Members: [273, 13, 258, 295, 54]
+273 got project satisfaction score 1.0, since Earnit was their Choice 1
+13 got project satisfaction score 0.4, since Earnit was their Choice 4
+258 got project satisfaction score 0.6, since Earnit was their Choice 3
+295 got project satisfaction score 0.6, since Earnit was their Choice 3
+54 got project satisfaction score 1.0, since Earnit was their Choice 1
+-> Average satisfaction for project 'Earnit': 0.72
+Belbin Roles: ['PLA', 'SHA', 'IMP', 'PLA', 'COM']
+-> Diversity score: 0.72
+
+-> Overall score: 0.72
+
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [16, 1, 4, 323, 8]
+16 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+1 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+4 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+323 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+8 got project satisfaction score 0.2, since Honours Programme was their Choice 5
+-> Average satisfaction for project 'Honours Programme': 0.52
+Belbin Roles: ['TEA', 'PLA', 'PLA', 'COM', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.62
+
+Team ID: actFact 1
+========================================
+Evaluating team for project: actFact
+Members: [341, 26, 9, 397, 263]
+341 got project satisfaction score 0.0 (No matching choice)
+26 got project satisfaction score 0.2, since actFact was their Choice 5
+9 got project satisfaction score 1.0, since actFact was their Choice 1
+397 got project satisfaction score 0.0 (No matching choice)
+263 got project satisfaction score 0.2, since actFact was their Choice 5
+-> Average satisfaction for project 'actFact': 0.28
+Belbin Roles: ['PLA', 'COM', 'TEA', 'COO', 'IMP']
+-> Diversity score: 0.80
+
+-> Overall score: 0.54
+
+
+Final score for arrangement 10: 0.6267

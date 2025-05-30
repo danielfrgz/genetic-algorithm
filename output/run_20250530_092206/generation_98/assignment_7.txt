@@ -1,0 +1,47 @@
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [164, 249, 404, 109, 6]
+164 got project satisfaction score 0.2, since Topicus was their Choice 5
+249 got project satisfaction score 0.6, since Topicus was their Choice 3
+404 got project satisfaction score 0.4, since Topicus was their Choice 4
+109 got project satisfaction score 0.8, since Topicus was their Choice 2
+6 got project satisfaction score 0.2, since Topicus was their Choice 5
+-> Average satisfaction for project 'Topicus': 0.44
+Belbin Roles: ['PLA', 'COO', 'MON', 'SHA', 'SPE']
+-> Diversity score: 0.80
+
+-> Overall score: 0.62
+
+Team ID: actFact 1
+========================================
+Evaluating team for project: actFact
+Members: [93, 150, 140, 123, 86]
+93 got project satisfaction score 0.0 (No matching choice)
+150 got project satisfaction score 0.0 (No matching choice)
+140 got project satisfaction score 0.0 (No matching choice)
+123 got project satisfaction score 0.0 (No matching choice)
+86 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'actFact': 0.00
+Belbin Roles: ['PLA', 'SPE', 'TEA', 'TEA', 'MON']
+-> Diversity score: 0.72
+
+-> Overall score: 0.36
+
+Team ID: Inter-actief 1
+========================================
+Evaluating team for project: Inter-actief
+Members: [393, 7, 5, 94, 121]
+393 got project satisfaction score 0.0 (No matching choice)
+7 got project satisfaction score 0.0 (No matching choice)
+5 got project satisfaction score 0.0 (No matching choice)
+94 got project satisfaction score 0.0 (No matching choice)
+121 got project satisfaction score 0.4, since Inter-actief was their Choice 4
+-> Average satisfaction for project 'Inter-actief': 0.08
+Belbin Roles: ['MON', 'IMP', 'SHA', 'IMP', 'COO']
+-> Diversity score: 0.72
+
+-> Overall score: 0.40
+
+
+Final score for arrangement 7: 0.4600

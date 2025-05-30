@@ -1,0 +1,47 @@
+Team ID: Earnit 1
+========================================
+Evaluating team for project: Earnit
+Members: [273, 13, 295, 54, 397]
+273 got project satisfaction score 1.0, since Earnit was their Choice 1
+13 got project satisfaction score 0.4, since Earnit was their Choice 4
+295 got project satisfaction score 0.6, since Earnit was their Choice 3
+54 got project satisfaction score 1.0, since Earnit was their Choice 1
+397 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Earnit': 0.60
+Belbin Roles: ['PLA', 'SHA', 'PLA', 'COM', 'COO']
+-> Diversity score: 0.72
+
+-> Overall score: 0.66
+
+Team ID: Shotmaniacs 2
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [9, 341, 323, 26, 258]
+9 got project satisfaction score 0.6, since Shotmaniacs was their Choice 3
+341 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+323 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+26 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+258 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+-> Average satisfaction for project 'Shotmaniacs': 0.88
+Belbin Roles: ['TEA', 'PLA', 'COM', 'COM', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.80
+
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [1, 263, 16, 8, 4]
+1 got project satisfaction score 0.4, since Voice was their Choice 4
+263 got project satisfaction score 1.0, since Voice was their Choice 1
+16 got project satisfaction score 1.0, since Voice was their Choice 1
+8 got project satisfaction score 0.8, since Voice was their Choice 2
+4 got project satisfaction score 0.4, since Voice was their Choice 4
+-> Average satisfaction for project 'Voice': 0.72
+Belbin Roles: ['PLA', 'IMP', 'TEA', 'SPE', 'PLA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.72
+
+
+Final score for arrangement 4: 0.7267

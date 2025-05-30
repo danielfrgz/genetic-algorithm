@@ -1,0 +1,47 @@
+Team ID: actFact 1
+========================================
+Evaluating team for project: actFact
+Members: [12, 158, 15, 2, 338]
+12 got project satisfaction score 1.0, since actFact was their Choice 1
+158 got project satisfaction score 0.2, since actFact was their Choice 5
+15 got project satisfaction score 0.8, since actFact was their Choice 2
+2 got project satisfaction score 1.0, since actFact was their Choice 1
+338 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'actFact': 0.60
+Belbin Roles: ['COM', 'TEA', 'IMP', 'IMP', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.66
+
+Team ID: Earnit 1
+========================================
+Evaluating team for project: Earnit
+Members: [241, 53, 56, 114, 90]
+241 got project satisfaction score 0.8, since Earnit was their Choice 2
+53 got project satisfaction score 1.0, since Earnit was their Choice 1
+56 got project satisfaction score 1.0, since Earnit was their Choice 1
+114 got project satisfaction score 0.8, since Earnit was their Choice 2
+90 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Earnit': 0.72
+Belbin Roles: ['SHA', 'PLA', 'SPE', 'IMP', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.72
+
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [84, 401, 142, 326, 74]
+84 got project satisfaction score 0.0 (No matching choice)
+401 got project satisfaction score 0.6, since Topicus was their Choice 3
+142 got project satisfaction score 0.6, since Topicus was their Choice 3
+326 got project satisfaction score 0.8, since Topicus was their Choice 2
+74 got project satisfaction score 0.6, since Topicus was their Choice 3
+-> Average satisfaction for project 'Topicus': 0.52
+Belbin Roles: ['SHA', 'PLA', 'TEA', 'TEA', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.62
+
+
+Final score for arrangement 8: 0.6667

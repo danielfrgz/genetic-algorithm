@@ -1,0 +1,47 @@
+Team ID: Shotmaniacs 1
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [12, 90, 2, 142, 241]
+12 got project satisfaction score 0.6, since Shotmaniacs was their Choice 3
+90 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+2 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+142 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+241 got project satisfaction score 0.6, since Shotmaniacs was their Choice 3
+-> Average satisfaction for project 'Shotmaniacs': 0.76
+Belbin Roles: ['COM', 'IMP', 'IMP', 'TEA', 'SHA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.74
+
+Team ID: Earnit 1
+========================================
+Evaluating team for project: Earnit
+Members: [53, 56, 74, 158, 401]
+53 got project satisfaction score 1.0, since Earnit was their Choice 1
+56 got project satisfaction score 1.0, since Earnit was their Choice 1
+74 got project satisfaction score 1.0, since Earnit was their Choice 1
+158 got project satisfaction score 0.0 (No matching choice)
+401 got project satisfaction score 0.4, since Earnit was their Choice 4
+-> Average satisfaction for project 'Earnit': 0.68
+Belbin Roles: ['PLA', 'SPE', 'SPE', 'TEA', 'PLA']
+-> Diversity score: 0.64
+
+-> Overall score: 0.66
+
+Team ID: Inter-actief 1
+========================================
+Evaluating team for project: Inter-actief
+Members: [84, 114, 15, 326, 338]
+84 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+114 got project satisfaction score 0.0 (No matching choice)
+15 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+326 got project satisfaction score 0.0 (No matching choice)
+338 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Inter-actief': 0.08
+Belbin Roles: ['SHA', 'IMP', 'IMP', 'TEA', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.40
+
+
+Final score for arrangement 3: 0.6000

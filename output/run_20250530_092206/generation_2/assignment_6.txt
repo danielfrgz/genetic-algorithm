@@ -1,0 +1,47 @@
+Team ID: Voice 2
+========================================
+Evaluating team for project: Voice
+Members: [7, 123, 393, 109, 6]
+7 got project satisfaction score 0.8, since Voice was their Choice 2
+123 got project satisfaction score 0.0 (No matching choice)
+393 got project satisfaction score 0.8, since Voice was their Choice 2
+109 got project satisfaction score 0.6, since Voice was their Choice 3
+6 got project satisfaction score 0.4, since Voice was their Choice 4
+-> Average satisfaction for project 'Voice': 0.52
+Belbin Roles: ['IMP', 'TEA', 'MON', 'SHA', 'SPE']
+-> Diversity score: 0.80
+
+-> Overall score: 0.66
+
+Team ID: Shotmaniacs 1
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [5, 94, 93, 86, 249]
+5 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+94 got project satisfaction score 0.0 (No matching choice)
+93 got project satisfaction score 0.0 (No matching choice)
+86 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+249 got project satisfaction score 0.2, since Shotmaniacs was their Choice 5
+-> Average satisfaction for project 'Shotmaniacs': 0.40
+Belbin Roles: ['SHA', 'IMP', 'PLA', 'MON', 'COO']
+-> Diversity score: 0.80
+
+-> Overall score: 0.60
+
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [121, 164, 404, 140, 150]
+121 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+164 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+404 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+140 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+150 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+-> Average satisfaction for project 'Honours Programme': 0.52
+Belbin Roles: ['COO', 'PLA', 'MON', 'TEA', 'SPE']
+-> Diversity score: 0.80
+
+-> Overall score: 0.66
+
+
+Final score for arrangement 6: 0.6400

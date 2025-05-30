@@ -1,0 +1,47 @@
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [9, 4, 295, 8, 341]
+9 got project satisfaction score 0.2, since Honours Programme was their Choice 5
+4 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+295 got project satisfaction score 0.0 (No matching choice)
+8 got project satisfaction score 0.2, since Honours Programme was their Choice 5
+341 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+-> Average satisfaction for project 'Honours Programme': 0.28
+Belbin Roles: ['TEA', 'PLA', 'PLA', 'SPE', 'PLA']
+-> Diversity score: 0.56
+
+-> Overall score: 0.42
+
+Team ID: Honours Programme 2
+========================================
+Evaluating team for project: Honours Programme
+Members: [16, 13, 323, 26, 258]
+16 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+13 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+323 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+26 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+258 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Honours Programme': 0.48
+Belbin Roles: ['TEA', 'SHA', 'COM', 'COM', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.60
+
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [273, 397, 54, 263, 1]
+273 got project satisfaction score 0.4, since Topicus was their Choice 4
+397 got project satisfaction score 0.6, since Topicus was their Choice 3
+54 got project satisfaction score 0.0 (No matching choice)
+263 got project satisfaction score 0.0 (No matching choice)
+1 got project satisfaction score 0.2, since Topicus was their Choice 5
+-> Average satisfaction for project 'Topicus': 0.24
+Belbin Roles: ['PLA', 'COO', 'COM', 'IMP', 'PLA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.48
+
+
+Final score for arrangement 3: 0.5000

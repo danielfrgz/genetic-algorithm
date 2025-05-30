@@ -1,0 +1,47 @@
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [6, 249, 7, 94, 123]
+6 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+249 got project satisfaction score 0.0 (No matching choice)
+7 got project satisfaction score 0.2, since Honours Programme was their Choice 5
+94 got project satisfaction score 0.0 (No matching choice)
+123 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+-> Average satisfaction for project 'Honours Programme': 0.32
+Belbin Roles: ['SPE', 'COO', 'IMP', 'IMP', 'TEA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.52
+
+Team ID: Shotmaniacs 1
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [121, 93, 404, 150, 109]
+121 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+93 got project satisfaction score 0.0 (No matching choice)
+404 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+150 got project satisfaction score 0.0 (No matching choice)
+109 got project satisfaction score 0.2, since Shotmaniacs was their Choice 5
+-> Average satisfaction for project 'Shotmaniacs': 0.40
+Belbin Roles: ['COO', 'PLA', 'MON', 'SPE', 'SHA']
+-> Diversity score: 0.80
+
+-> Overall score: 0.60
+
+Team ID: Honours Programme 2
+========================================
+Evaluating team for project: Honours Programme
+Members: [393, 86, 164, 140, 5]
+393 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+86 got project satisfaction score 0.0 (No matching choice)
+164 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+140 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+5 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+-> Average satisfaction for project 'Honours Programme': 0.36
+Belbin Roles: ['MON', 'MON', 'PLA', 'TEA', 'SHA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.54
+
+
+Final score for arrangement 8: 0.5533

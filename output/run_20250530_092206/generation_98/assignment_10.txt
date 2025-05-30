@@ -1,0 +1,47 @@
+Team ID: Shotmaniacs 1
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [93, 94, 7, 140, 150]
+93 got project satisfaction score 0.0 (No matching choice)
+94 got project satisfaction score 0.0 (No matching choice)
+7 got project satisfaction score 0.6, since Shotmaniacs was their Choice 3
+140 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+150 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Shotmaniacs': 0.28
+Belbin Roles: ['PLA', 'IMP', 'IMP', 'TEA', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.50
+
+Team ID: Inter-actief 1
+========================================
+Evaluating team for project: Inter-actief
+Members: [393, 249, 121, 164, 123]
+393 got project satisfaction score 0.0 (No matching choice)
+249 got project satisfaction score 0.0 (No matching choice)
+121 got project satisfaction score 0.4, since Inter-actief was their Choice 4
+164 got project satisfaction score 1.0, since Inter-actief was their Choice 1
+123 got project satisfaction score 0.4, since Inter-actief was their Choice 4
+-> Average satisfaction for project 'Inter-actief': 0.36
+Belbin Roles: ['MON', 'COO', 'COO', 'PLA', 'TEA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.54
+
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [5, 6, 86, 404, 109]
+5 got project satisfaction score 0.2, since Topicus was their Choice 5
+6 got project satisfaction score 0.2, since Topicus was their Choice 5
+86 got project satisfaction score 0.8, since Topicus was their Choice 2
+404 got project satisfaction score 0.4, since Topicus was their Choice 4
+109 got project satisfaction score 0.8, since Topicus was their Choice 2
+-> Average satisfaction for project 'Topicus': 0.48
+Belbin Roles: ['SHA', 'SPE', 'MON', 'MON', 'SHA']
+-> Diversity score: 0.64
+
+-> Overall score: 0.56
+
+
+Final score for arrangement 10: 0.5333

@@ -1,0 +1,47 @@
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [6, 249, 404, 121, 86]
+6 got project satisfaction score 0.2, since Topicus was their Choice 5
+249 got project satisfaction score 0.6, since Topicus was their Choice 3
+404 got project satisfaction score 0.4, since Topicus was their Choice 4
+121 got project satisfaction score 0.2, since Topicus was their Choice 5
+86 got project satisfaction score 0.8, since Topicus was their Choice 2
+-> Average satisfaction for project 'Topicus': 0.44
+Belbin Roles: ['SPE', 'COO', 'MON', 'COO', 'MON']
+-> Diversity score: 0.64
+
+-> Overall score: 0.54
+
+Team ID: Earnit 1
+========================================
+Evaluating team for project: Earnit
+Members: [393, 140, 7, 164, 93]
+393 got project satisfaction score 0.0 (No matching choice)
+140 got project satisfaction score 0.0 (No matching choice)
+7 got project satisfaction score 0.0 (No matching choice)
+164 got project satisfaction score 0.6, since Earnit was their Choice 3
+93 got project satisfaction score 0.2, since Earnit was their Choice 5
+-> Average satisfaction for project 'Earnit': 0.16
+Belbin Roles: ['MON', 'TEA', 'IMP', 'PLA', 'PLA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.44
+
+Team ID: Earnit 2
+========================================
+Evaluating team for project: Earnit
+Members: [5, 94, 123, 150, 109]
+5 got project satisfaction score 0.0 (No matching choice)
+94 got project satisfaction score 0.2, since Earnit was their Choice 5
+123 got project satisfaction score 0.6, since Earnit was their Choice 3
+150 got project satisfaction score 0.6, since Earnit was their Choice 3
+109 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Earnit': 0.28
+Belbin Roles: ['SHA', 'IMP', 'TEA', 'SPE', 'SHA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.50
+
+
+Final score for arrangement 4: 0.4933

@@ -1,0 +1,47 @@
+Team ID: Shotmaniacs 2
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [8, 9, 26, 397, 341]
+8 got project satisfaction score 0.6, since Shotmaniacs was their Choice 3
+9 got project satisfaction score 0.6, since Shotmaniacs was their Choice 3
+26 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+397 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+341 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+-> Average satisfaction for project 'Shotmaniacs': 0.80
+Belbin Roles: ['SPE', 'TEA', 'COM', 'COO', 'PLA']
+-> Diversity score: 0.80
+
+-> Overall score: 0.80
+
+Team ID: Earnit 1
+========================================
+Evaluating team for project: Earnit
+Members: [13, 258, 295, 54, 263]
+13 got project satisfaction score 0.4, since Earnit was their Choice 4
+258 got project satisfaction score 0.6, since Earnit was their Choice 3
+295 got project satisfaction score 0.6, since Earnit was their Choice 3
+54 got project satisfaction score 1.0, since Earnit was their Choice 1
+263 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Earnit': 0.52
+Belbin Roles: ['SHA', 'IMP', 'PLA', 'COM', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.62
+
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [16, 1, 4, 323, 273]
+16 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+1 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+4 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+323 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+273 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Honours Programme': 0.48
+Belbin Roles: ['TEA', 'PLA', 'PLA', 'COM', 'PLA']
+-> Diversity score: 0.56
+
+-> Overall score: 0.52
+
+
+Final score for arrangement 7: 0.6467

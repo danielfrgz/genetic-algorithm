@@ -1,0 +1,47 @@
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [84, 53, 2, 56, 158]
+84 got project satisfaction score 0.0 (No matching choice)
+53 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+2 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+56 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+158 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Honours Programme': 0.44
+Belbin Roles: ['SHA', 'PLA', 'IMP', 'SPE', 'TEA']
+-> Diversity score: 0.80
+
+-> Overall score: 0.62
+
+Team ID: Earnit 1
+========================================
+Evaluating team for project: Earnit
+Members: [326, 142, 401, 12, 114]
+326 got project satisfaction score 0.0 (No matching choice)
+142 got project satisfaction score 0.0 (No matching choice)
+401 got project satisfaction score 0.4, since Earnit was their Choice 4
+12 got project satisfaction score 0.0 (No matching choice)
+114 got project satisfaction score 0.8, since Earnit was their Choice 2
+-> Average satisfaction for project 'Earnit': 0.24
+Belbin Roles: ['TEA', 'TEA', 'PLA', 'COM', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.48
+
+Team ID: Inter-actief 1
+========================================
+Evaluating team for project: Inter-actief
+Members: [338, 90, 241, 74, 15]
+338 got project satisfaction score 0.0 (No matching choice)
+90 got project satisfaction score 0.0 (No matching choice)
+241 got project satisfaction score 0.0 (No matching choice)
+74 got project satisfaction score 0.0 (No matching choice)
+15 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+-> Average satisfaction for project 'Inter-actief': 0.04
+Belbin Roles: ['SPE', 'IMP', 'SHA', 'SPE', 'IMP']
+-> Diversity score: 0.64
+
+-> Overall score: 0.34
+
+
+Final score for arrangement 8: 0.4800

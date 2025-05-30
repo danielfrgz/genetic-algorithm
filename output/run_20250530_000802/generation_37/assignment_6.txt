@@ -1,0 +1,47 @@
+Team ID: actFact 1
+========================================
+Evaluating team for project: actFact
+Members: [4, 16, 8, 1, 13]
+4 got project satisfaction score 1.0, since actFact was their Choice 1
+16 got project satisfaction score 0.8, since actFact was their Choice 2
+8 got project satisfaction score 1.0, since actFact was their Choice 1
+1 got project satisfaction score 1.0, since actFact was their Choice 1
+13 got project satisfaction score 0.8, since actFact was their Choice 2
+-> Average satisfaction for project 'actFact': 0.92
+Belbin Roles: ['PLA', 'TEA', 'SPE', 'PLA', 'SHA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.82
+
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [273, 397, 54, 323, 26]
+273 got project satisfaction score 0.0 (No matching choice)
+397 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+54 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+323 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+26 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+-> Average satisfaction for project 'Honours Programme': 0.48
+Belbin Roles: ['PLA', 'COO', 'COM', 'COM', 'COM']
+-> Diversity score: 0.56
+
+-> Overall score: 0.52
+
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [341, 258, 9, 263, 295]
+341 got project satisfaction score 0.8, since Topicus was their Choice 2
+258 got project satisfaction score 0.0 (No matching choice)
+9 got project satisfaction score 0.4, since Topicus was their Choice 4
+263 got project satisfaction score 0.0 (No matching choice)
+295 got project satisfaction score 1.0, since Topicus was their Choice 1
+-> Average satisfaction for project 'Topicus': 0.44
+Belbin Roles: ['PLA', 'IMP', 'TEA', 'IMP', 'PLA']
+-> Diversity score: 0.64
+
+-> Overall score: 0.54
+
+
+Final score for arrangement 6: 0.6267

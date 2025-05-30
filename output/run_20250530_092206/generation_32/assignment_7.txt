@@ -1,0 +1,47 @@
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [140, 5, 393, 109, 150]
+140 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+5 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+393 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+109 got project satisfaction score 1.0, since Honours Programme was their Choice 1
+150 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+-> Average satisfaction for project 'Honours Programme': 0.56
+Belbin Roles: ['TEA', 'SHA', 'MON', 'SHA', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.64
+
+Team ID: actFact 1
+========================================
+Evaluating team for project: actFact
+Members: [7, 249, 404, 94, 6]
+7 got project satisfaction score 1.0, since actFact was their Choice 1
+249 got project satisfaction score 0.0 (No matching choice)
+404 got project satisfaction score 0.2, since actFact was their Choice 5
+94 got project satisfaction score 0.0 (No matching choice)
+6 got project satisfaction score 1.0, since actFact was their Choice 1
+-> Average satisfaction for project 'actFact': 0.44
+Belbin Roles: ['IMP', 'COO', 'MON', 'IMP', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.58
+
+Team ID: Honours Programme 2
+========================================
+Evaluating team for project: Honours Programme
+Members: [86, 164, 123, 93, 121]
+86 got project satisfaction score 0.0 (No matching choice)
+164 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+123 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+93 got project satisfaction score 0.0 (No matching choice)
+121 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+-> Average satisfaction for project 'Honours Programme': 0.40
+Belbin Roles: ['MON', 'PLA', 'TEA', 'PLA', 'COO']
+-> Diversity score: 0.72
+
+-> Overall score: 0.56
+
+
+Final score for arrangement 7: 0.5933

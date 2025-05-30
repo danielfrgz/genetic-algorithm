@@ -1,0 +1,47 @@
+Team ID: Shotmaniacs 2
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [8, 9, 26, 397, 13]
+8 got project satisfaction score 0.6, since Shotmaniacs was their Choice 3
+9 got project satisfaction score 0.6, since Shotmaniacs was their Choice 3
+26 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+397 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+13 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Shotmaniacs': 0.60
+Belbin Roles: ['SPE', 'TEA', 'COM', 'COO', 'SHA']
+-> Diversity score: 0.80
+
+-> Overall score: 0.70
+
+Team ID: Earnit 1
+========================================
+Evaluating team for project: Earnit
+Members: [273, 258, 295, 54, 341]
+273 got project satisfaction score 1.0, since Earnit was their Choice 1
+258 got project satisfaction score 0.6, since Earnit was their Choice 3
+295 got project satisfaction score 0.6, since Earnit was their Choice 3
+54 got project satisfaction score 1.0, since Earnit was their Choice 1
+341 got project satisfaction score 0.6, since Earnit was their Choice 3
+-> Average satisfaction for project 'Earnit': 0.76
+Belbin Roles: ['PLA', 'IMP', 'PLA', 'COM', 'PLA']
+-> Diversity score: 0.56
+
+-> Overall score: 0.66
+
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [263, 16, 1, 4, 323]
+263 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+16 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+1 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+4 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+323 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+-> Average satisfaction for project 'Honours Programme': 0.60
+Belbin Roles: ['IMP', 'TEA', 'PLA', 'PLA', 'COM']
+-> Diversity score: 0.72
+
+-> Overall score: 0.66
+
+
+Final score for arrangement 10: 0.6733

@@ -1,0 +1,47 @@
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [150, 5, 6, 164, 123]
+150 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+5 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+6 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+164 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+123 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+-> Average satisfaction for project 'Honours Programme': 0.56
+Belbin Roles: ['SPE', 'SHA', 'SPE', 'PLA', 'TEA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.64
+
+Team ID: actFact 1
+========================================
+Evaluating team for project: actFact
+Members: [86, 109, 7, 393, 93]
+86 got project satisfaction score 0.0 (No matching choice)
+109 got project satisfaction score 0.0 (No matching choice)
+7 got project satisfaction score 1.0, since actFact was their Choice 1
+393 got project satisfaction score 0.0 (No matching choice)
+93 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'actFact': 0.20
+Belbin Roles: ['MON', 'SHA', 'IMP', 'MON', 'PLA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.46
+
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [249, 121, 140, 404, 94]
+249 got project satisfaction score 0.6, since Topicus was their Choice 3
+121 got project satisfaction score 0.2, since Topicus was their Choice 5
+140 got project satisfaction score 0.6, since Topicus was their Choice 3
+404 got project satisfaction score 0.4, since Topicus was their Choice 4
+94 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Topicus': 0.36
+Belbin Roles: ['COO', 'COO', 'TEA', 'MON', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.54
+
+
+Final score for arrangement 3: 0.5467

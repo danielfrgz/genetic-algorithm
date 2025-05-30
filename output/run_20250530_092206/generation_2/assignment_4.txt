@@ -1,0 +1,47 @@
+Team ID: Shotmaniacs 1
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [86, 5, 404, 93, 249]
+86 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+5 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+404 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+93 got project satisfaction score 0.0 (No matching choice)
+249 got project satisfaction score 0.2, since Shotmaniacs was their Choice 5
+-> Average satisfaction for project 'Shotmaniacs': 0.56
+Belbin Roles: ['MON', 'SHA', 'MON', 'PLA', 'COO']
+-> Diversity score: 0.72
+
+-> Overall score: 0.64
+
+Team ID: Voice 2
+========================================
+Evaluating team for project: Voice
+Members: [7, 123, 393, 109, 121]
+7 got project satisfaction score 0.8, since Voice was their Choice 2
+123 got project satisfaction score 0.0 (No matching choice)
+393 got project satisfaction score 0.8, since Voice was their Choice 2
+109 got project satisfaction score 0.6, since Voice was their Choice 3
+121 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Voice': 0.44
+Belbin Roles: ['IMP', 'TEA', 'MON', 'SHA', 'COO']
+-> Diversity score: 0.80
+
+-> Overall score: 0.62
+
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [164, 94, 6, 140, 150]
+164 got project satisfaction score 0.2, since Topicus was their Choice 5
+94 got project satisfaction score 0.0 (No matching choice)
+6 got project satisfaction score 0.2, since Topicus was their Choice 5
+140 got project satisfaction score 0.6, since Topicus was their Choice 3
+150 got project satisfaction score 0.2, since Topicus was their Choice 5
+-> Average satisfaction for project 'Topicus': 0.24
+Belbin Roles: ['PLA', 'IMP', 'SPE', 'TEA', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.48
+
+
+Final score for arrangement 4: 0.5800

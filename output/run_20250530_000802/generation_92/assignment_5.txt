@@ -1,0 +1,47 @@
+Team ID: Shotmaniacs 1
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [323, 258, 341, 295, 273]
+323 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+258 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+341 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+295 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+273 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Shotmaniacs': 0.76
+Belbin Roles: ['COM', 'IMP', 'PLA', 'PLA', 'PLA']
+-> Diversity score: 0.56
+
+-> Overall score: 0.66
+
+Team ID: actFact 1
+========================================
+Evaluating team for project: actFact
+Members: [4, 1, 9, 13, 54]
+4 got project satisfaction score 1.0, since actFact was their Choice 1
+1 got project satisfaction score 1.0, since actFact was their Choice 1
+9 got project satisfaction score 1.0, since actFact was their Choice 1
+13 got project satisfaction score 0.8, since actFact was their Choice 2
+54 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'actFact': 0.76
+Belbin Roles: ['PLA', 'PLA', 'TEA', 'SHA', 'COM']
+-> Diversity score: 0.72
+
+-> Overall score: 0.74
+
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [263, 8, 16, 26, 397]
+263 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+8 got project satisfaction score 0.2, since Honours Programme was their Choice 5
+16 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+26 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+397 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+-> Average satisfaction for project 'Honours Programme': 0.48
+Belbin Roles: ['IMP', 'SPE', 'TEA', 'COM', 'COO']
+-> Diversity score: 0.80
+
+-> Overall score: 0.64
+
+
+Final score for arrangement 5: 0.6800

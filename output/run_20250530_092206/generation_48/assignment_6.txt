@@ -1,0 +1,47 @@
+Team ID: Earnit 1
+========================================
+Evaluating team for project: Earnit
+Members: [7, 6, 86, 93, 94]
+7 got project satisfaction score 0.0 (No matching choice)
+6 got project satisfaction score 0.0 (No matching choice)
+86 got project satisfaction score 0.0 (No matching choice)
+93 got project satisfaction score 0.2, since Earnit was their Choice 5
+94 got project satisfaction score 0.2, since Earnit was their Choice 5
+-> Average satisfaction for project 'Earnit': 0.08
+Belbin Roles: ['IMP', 'SPE', 'MON', 'PLA', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.40
+
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [164, 393, 140, 150, 404]
+164 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+393 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+140 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+150 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+404 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+-> Average satisfaction for project 'Honours Programme': 0.44
+Belbin Roles: ['PLA', 'MON', 'TEA', 'SPE', 'MON']
+-> Diversity score: 0.72
+
+-> Overall score: 0.58
+
+Team ID: Honours Programme 2
+========================================
+Evaluating team for project: Honours Programme
+Members: [121, 5, 123, 249, 109]
+121 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+5 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+123 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+249 got project satisfaction score 0.0 (No matching choice)
+109 got project satisfaction score 1.0, since Honours Programme was their Choice 1
+-> Average satisfaction for project 'Honours Programme': 0.64
+Belbin Roles: ['COO', 'SHA', 'TEA', 'COO', 'SHA']
+-> Diversity score: 0.64
+
+-> Overall score: 0.64
+
+
+Final score for arrangement 6: 0.5400

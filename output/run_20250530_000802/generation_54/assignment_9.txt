@@ -1,0 +1,47 @@
+Team ID: Earnit 1
+========================================
+Evaluating team for project: Earnit
+Members: [258, 295, 54, 263, 8]
+258 got project satisfaction score 0.6, since Earnit was their Choice 3
+295 got project satisfaction score 0.6, since Earnit was their Choice 3
+54 got project satisfaction score 1.0, since Earnit was their Choice 1
+263 got project satisfaction score 0.0 (No matching choice)
+8 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Earnit': 0.44
+Belbin Roles: ['IMP', 'PLA', 'COM', 'IMP', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.58
+
+Team ID: actFact 1
+========================================
+Evaluating team for project: actFact
+Members: [4, 16, 1, 13, 273]
+4 got project satisfaction score 1.0, since actFact was their Choice 1
+16 got project satisfaction score 0.8, since actFact was their Choice 2
+1 got project satisfaction score 1.0, since actFact was their Choice 1
+13 got project satisfaction score 0.8, since actFact was their Choice 2
+273 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'actFact': 0.72
+Belbin Roles: ['PLA', 'TEA', 'PLA', 'SHA', 'PLA']
+-> Diversity score: 0.56
+
+-> Overall score: 0.64
+
+Team ID: Inter-actief 1
+========================================
+Evaluating team for project: Inter-actief
+Members: [9, 397, 323, 341, 26]
+9 got project satisfaction score 0.0 (No matching choice)
+397 got project satisfaction score 0.0 (No matching choice)
+323 got project satisfaction score 0.0 (No matching choice)
+341 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+26 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Inter-actief': 0.04
+Belbin Roles: ['TEA', 'COO', 'COM', 'PLA', 'COM']
+-> Diversity score: 0.72
+
+-> Overall score: 0.38
+
+
+Final score for arrangement 9: 0.5333

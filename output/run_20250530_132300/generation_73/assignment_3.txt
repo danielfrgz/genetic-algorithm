@@ -1,0 +1,47 @@
+Team ID: actFact 1
+========================================
+Evaluating team for project: actFact
+Members: [142, 84, 241, 56, 90]
+142 got project satisfaction score 0.0 (No matching choice)
+84 got project satisfaction score 0.0 (No matching choice)
+241 got project satisfaction score 0.0 (No matching choice)
+56 got project satisfaction score 0.0 (No matching choice)
+90 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'actFact': 0.00
+Belbin Roles: ['TEA', 'SHA', 'SHA', 'SPE', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.36
+
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [53, 401, 2, 326, 15]
+53 got project satisfaction score 0.0 (No matching choice)
+401 got project satisfaction score 0.8, since Voice was their Choice 2
+2 got project satisfaction score 0.4, since Voice was their Choice 4
+326 got project satisfaction score 0.2, since Voice was their Choice 5
+15 got project satisfaction score 1.0, since Voice was their Choice 1
+-> Average satisfaction for project 'Voice': 0.48
+Belbin Roles: ['PLA', 'PLA', 'IMP', 'TEA', 'IMP']
+-> Diversity score: 0.64
+
+-> Overall score: 0.56
+
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [338, 158, 114, 74, 12]
+338 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+158 got project satisfaction score 0.0 (No matching choice)
+114 got project satisfaction score 1.0, since Honours Programme was their Choice 1
+74 got project satisfaction score 0.0 (No matching choice)
+12 got project satisfaction score 0.2, since Honours Programme was their Choice 5
+-> Average satisfaction for project 'Honours Programme': 0.40
+Belbin Roles: ['SPE', 'TEA', 'IMP', 'SPE', 'COM']
+-> Diversity score: 0.72
+
+-> Overall score: 0.56
+
+
+Final score for arrangement 3: 0.4933

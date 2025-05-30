@@ -1,0 +1,47 @@
+Team ID: Earnit 1
+========================================
+Evaluating team for project: Earnit
+Members: [273, 13, 258, 54, 8]
+273 got project satisfaction score 1.0, since Earnit was their Choice 1
+13 got project satisfaction score 0.4, since Earnit was their Choice 4
+258 got project satisfaction score 0.6, since Earnit was their Choice 3
+54 got project satisfaction score 1.0, since Earnit was their Choice 1
+8 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Earnit': 0.60
+Belbin Roles: ['PLA', 'SHA', 'IMP', 'COM', 'SPE']
+-> Diversity score: 0.80
+
+-> Overall score: 0.70
+
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [263, 16, 1, 4, 323]
+263 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+16 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+1 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+4 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+323 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+-> Average satisfaction for project 'Honours Programme': 0.60
+Belbin Roles: ['IMP', 'TEA', 'PLA', 'PLA', 'COM']
+-> Diversity score: 0.72
+
+-> Overall score: 0.66
+
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [9, 341, 397, 26, 295]
+9 got project satisfaction score 0.8, since Voice was their Choice 2
+341 got project satisfaction score 0.0 (No matching choice)
+397 got project satisfaction score 0.8, since Voice was their Choice 2
+26 got project satisfaction score 1.0, since Voice was their Choice 1
+295 got project satisfaction score 0.4, since Voice was their Choice 4
+-> Average satisfaction for project 'Voice': 0.60
+Belbin Roles: ['TEA', 'PLA', 'COO', 'COM', 'PLA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.66
+
+
+Final score for arrangement 3: 0.6733

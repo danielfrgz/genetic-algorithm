@@ -1,0 +1,16 @@
+ID,Program,Nationality,Choice 1,Choice 2,Choice 3,Choice 4,Choice 5,Belbin,Gender
+1,B-TCS,Dutch,actFact,Shotmaniacs,Honours Programme,Voice,Topicus,PLA,Male
+4,B-TCS,Dutch,actFact,Shotmaniacs,Honours Programme,Voice,Topicus,PLA,Male
+8,B-TCS,Turkish,actFact,Voice,Shotmaniacs,Topicus,Honours Programme,SPE,Female
+13,B-TCS,Romanian,Voice,actFact,Honours Programme,Earnit,Inter-actief,SHA,Male
+26,B-TCS,Bangladeshi,Voice,Shotmaniacs,Honours Programme,Topicus,actFact,COM,Male
+54,B-TCS,Egyptian,Earnit,Honours Programme,Entweder,Inter-actief,Rosen,COM,Male
+258,B-TCS,Greek,Shotmaniacs,Notebridge,Earnit,Voice,Inter-actief,IMP,Male
+295,B-TCS,Dutch,Topicus,Shotmaniacs,Earnit,Voice,Rosen,PLA,Male
+323,B-TCS,Romanian,Shotmaniacs,Topicus,Honours Programme,actFact,Voice,COM,Female
+397,B-TCS,Belgian,Shotmaniacs,Voice,Topicus,Honours Programme,eMagiz,COO,Male
+9,B-BIT,Romanian,actFact,Voice,Shotmaniacs,Topicus,Honours Programme,TEA,Male
+16,B-BIT,Egyptian,Voice,actFact,Honours Programme,Earnit,Inter-actief,TEA,Female
+263,B-BIT,Dutch,Voice,Notebridge,Honours Programme,Shotmaniacs,actFact,IMP,Male
+273,B-BIT,Chinese,Earnit,Voice,Notebridge,Topicus,eMagiz,PLA,Male
+341,B-BIT,Dutch,Shotmaniacs,Topicus,Earnit,Honours Programme,Inter-actief,PLA,Male

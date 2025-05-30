@@ -1,0 +1,47 @@
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [338, 84, 114, 401, 15]
+338 got project satisfaction score 0.4, since Voice was their Choice 4
+84 got project satisfaction score 0.4, since Voice was their Choice 4
+114 got project satisfaction score 0.6, since Voice was their Choice 3
+401 got project satisfaction score 0.8, since Voice was their Choice 2
+15 got project satisfaction score 1.0, since Voice was their Choice 1
+-> Average satisfaction for project 'Voice': 0.64
+Belbin Roles: ['SPE', 'SHA', 'IMP', 'PLA', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.68
+
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [74, 53, 2, 241, 142]
+74 got project satisfaction score 0.0 (No matching choice)
+53 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+2 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+241 got project satisfaction score 0.2, since Honours Programme was their Choice 5
+142 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+-> Average satisfaction for project 'Honours Programme': 0.40
+Belbin Roles: ['SPE', 'PLA', 'IMP', 'SHA', 'TEA']
+-> Diversity score: 0.80
+
+-> Overall score: 0.60
+
+Team ID: Honours Programme 2
+========================================
+Evaluating team for project: Honours Programme
+Members: [158, 56, 90, 326, 12]
+158 got project satisfaction score 0.0 (No matching choice)
+56 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+90 got project satisfaction score 0.0 (No matching choice)
+326 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+12 got project satisfaction score 0.2, since Honours Programme was their Choice 5
+-> Average satisfaction for project 'Honours Programme': 0.32
+Belbin Roles: ['TEA', 'SPE', 'IMP', 'TEA', 'COM']
+-> Diversity score: 0.72
+
+-> Overall score: 0.52
+
+
+Final score for arrangement 9: 0.6000
