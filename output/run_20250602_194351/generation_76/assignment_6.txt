@@ -1,0 +1,830 @@
+Team ID: Voice 1
+========================================
+Evaluating team for project: Voice
+Members: [114, 357, 146, 65, 391, 112]
+114 got project satisfaction score 0.6, since Voice was their Choice 3
+357 got project satisfaction score 0.2, since Voice was their Choice 5
+146 got project satisfaction score 1.0, since Voice was their Choice 1
+65 got project satisfaction score 0.4, since Voice was their Choice 4
+391 got project satisfaction score 1.0, since Voice was their Choice 1
+112 got project satisfaction score 0.6, since Voice was their Choice 3
+-> Average satisfaction for project 'Voice': 0.63
+Belbin Roles: ['IMP', 'COM', 'SPE', 'SHA', 'COO', 'TEA']
+-> Diversity score: 0.83
+
+-> Overall score: 0.73
+
+Team ID: Shotmaniacs 1
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [17, 130, 323, 300, 269, 134]
+17 got project satisfaction score 0.0 (No matching choice)
+130 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+323 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+300 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+269 got project satisfaction score 0.0 (No matching choice)
+134 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Shotmaniacs': 0.50
+Belbin Roles: ['TEA', 'SPE', 'COM', 'IMP', 'IMP', 'SHA']
+-> Diversity score: 0.78
+
+-> Overall score: 0.64
+
+Team ID: actFact 1
+========================================
+Evaluating team for project: actFact
+Members: [119, 22, 33, 326, 261, 328]
+119 got project satisfaction score 0.2, since actFact was their Choice 5
+22 got project satisfaction score 0.6, since actFact was their Choice 3
+33 got project satisfaction score 1.0, since actFact was their Choice 1
+326 got project satisfaction score 0.4, since actFact was their Choice 4
+261 got project satisfaction score 0.0 (No matching choice)
+328 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'actFact': 0.37
+Belbin Roles: ['SHA', 'COM', 'SPE', 'TEA', 'SHA', 'IMP']
+-> Diversity score: 0.78
+
+-> Overall score: 0.57
+
+Team ID: Shotmaniacs 2
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [16, 365, 144, 32, 117]
+16 got project satisfaction score 0.0 (No matching choice)
+365 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+144 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+32 got project satisfaction score 0.0 (No matching choice)
+117 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Shotmaniacs': 0.32
+Belbin Roles: ['TEA', 'MON', 'IMP', 'COO', 'MON']
+-> Diversity score: 0.72
+
+-> Overall score: 0.52
+
+Team ID: Shotmaniacs 3
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [377, 141, 67, 394, 46]
+377 got project satisfaction score 0.4, since Shotmaniacs was their Choice 4
+141 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+67 got project satisfaction score 0.2, since Shotmaniacs was their Choice 5
+394 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+46 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+-> Average satisfaction for project 'Shotmaniacs': 0.64
+Belbin Roles: ['COM', 'IMP', 'RES', 'COM', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.68
+
+Team ID: Inter-actief 1
+========================================
+Evaluating team for project: Inter-actief
+Members: [49, 105, 6, 349, 163]
+49 got project satisfaction score 0.0 (No matching choice)
+105 got project satisfaction score 0.0 (No matching choice)
+6 got project satisfaction score 0.0 (No matching choice)
+349 got project satisfaction score 0.0 (No matching choice)
+163 got project satisfaction score 1.0, since Inter-actief was their Choice 1
+-> Average satisfaction for project 'Inter-actief': 0.20
+Belbin Roles: ['IMP', 'TEA', 'SPE', 'IMP', 'IMP']
+-> Diversity score: 0.56
+
+-> Overall score: 0.38
+
+Team ID: Honours Programme 1
+========================================
+Evaluating team for project: Honours Programme
+Members: [148, 158, 327, 4, 138]
+148 got project satisfaction score 0.0 (No matching choice)
+158 got project satisfaction score 0.0 (No matching choice)
+327 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+4 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+138 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+-> Average satisfaction for project 'Honours Programme': 0.32
+Belbin Roles: ['COO', 'TEA', 'SPE', 'PLA', 'IMP']
+-> Diversity score: 0.80
+
+-> Overall score: 0.56
+
+Team ID: Topicus 1
+========================================
+Evaluating team for project: Topicus
+Members: [402, 162, 150, 337, 263]
+402 got project satisfaction score 0.6, since Topicus was their Choice 3
+162 got project satisfaction score 0.2, since Topicus was their Choice 5
+150 got project satisfaction score 0.2, since Topicus was their Choice 5
+337 got project satisfaction score 1.0, since Topicus was their Choice 1
+263 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Topicus': 0.40
+Belbin Roles: ['IMP', 'SHA', 'SPE', 'TEA', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.56
+
+Team ID: Honours Programme 2
+========================================
+Evaluating team for project: Honours Programme
+Members: [136, 303, 307, 343, 273]
+136 got project satisfaction score 1.0, since Honours Programme was their Choice 1
+303 got project satisfaction score 0.0 (No matching choice)
+307 got project satisfaction score 0.0 (No matching choice)
+343 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+273 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Honours Programme': 0.28
+Belbin Roles: ['SHA', 'PLA', 'COM', 'COO', 'PLA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.50
+
+Team ID: Inter-actief 2
+========================================
+Evaluating team for project: Inter-actief
+Members: [381, 294, 127, 169, 281]
+381 got project satisfaction score 0.0 (No matching choice)
+294 got project satisfaction score 0.0 (No matching choice)
+127 got project satisfaction score 0.0 (No matching choice)
+169 got project satisfaction score 0.0 (No matching choice)
+281 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+-> Average satisfaction for project 'Inter-actief': 0.04
+Belbin Roles: ['PLA', 'IMP', 'RES', 'SPE', 'RES']
+-> Diversity score: 0.72
+
+-> Overall score: 0.38
+
+Team ID: actFact 2
+========================================
+Evaluating team for project: actFact
+Members: [374, 335, 279, 128, 308]
+374 got project satisfaction score 0.2, since actFact was their Choice 5
+335 got project satisfaction score 0.0 (No matching choice)
+279 got project satisfaction score 0.0 (No matching choice)
+128 got project satisfaction score 0.0 (No matching choice)
+308 got project satisfaction score 1.0, since actFact was their Choice 1
+-> Average satisfaction for project 'actFact': 0.24
+Belbin Roles: ['SPE', 'COO', 'TEA', 'SPE', 'COO']
+-> Diversity score: 0.64
+
+-> Overall score: 0.44
+
+Team ID: actFact 3
+========================================
+Evaluating team for project: actFact
+Members: [12, 286, 403, 389, 399]
+12 got project satisfaction score 1.0, since actFact was their Choice 1
+286 got project satisfaction score 0.0 (No matching choice)
+403 got project satisfaction score 0.0 (No matching choice)
+389 got project satisfaction score 0.2, since actFact was their Choice 5
+399 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'actFact': 0.24
+Belbin Roles: ['COM', 'IMP', 'IMP', 'IMP', 'TEA']
+-> Diversity score: 0.56
+
+-> Overall score: 0.40
+
+Team ID: Earnit 1
+========================================
+Evaluating team for project: Earnit
+Members: [14, 259, 145, 173, 80]
+14 got project satisfaction score 0.4, since Earnit was their Choice 4
+259 got project satisfaction score 0.6, since Earnit was their Choice 3
+145 got project satisfaction score 0.4, since Earnit was their Choice 4
+173 got project satisfaction score 0.0 (No matching choice)
+80 got project satisfaction score 1.0, since Earnit was their Choice 1
+-> Average satisfaction for project 'Earnit': 0.48
+Belbin Roles: ['SHA', 'COM', 'SPE', 'COO', 'COO']
+-> Diversity score: 0.72
+
+-> Overall score: 0.60
+
+Team ID: Inter-actief 3
+========================================
+Evaluating team for project: Inter-actief
+Members: [379, 241, 171, 153, 89]
+379 got project satisfaction score 0.0 (No matching choice)
+241 got project satisfaction score 0.0 (No matching choice)
+171 got project satisfaction score 0.0 (No matching choice)
+153 got project satisfaction score 0.8, since Inter-actief was their Choice 2
+89 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Inter-actief': 0.16
+Belbin Roles: ['PLA', 'SHA', 'COO', 'IMP', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.44
+
+Team ID: Earnit 2
+========================================
+Evaluating team for project: Earnit
+Members: [313, 246, 64, 10, 282]
+313 got project satisfaction score 0.4, since Earnit was their Choice 4
+246 got project satisfaction score 0.4, since Earnit was their Choice 4
+64 got project satisfaction score 1.0, since Earnit was their Choice 1
+10 got project satisfaction score 0.0 (No matching choice)
+282 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Earnit': 0.36
+Belbin Roles: ['COM', 'SPE', 'COM', 'IMP', 'SHA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.54
+
+Team ID: Earnit 3
+========================================
+Evaluating team for project: Earnit
+Members: [2, 382, 156, 21, 74]
+2 got project satisfaction score 0.0 (No matching choice)
+382 got project satisfaction score 0.4, since Earnit was their Choice 4
+156 got project satisfaction score 0.0 (No matching choice)
+21 got project satisfaction score 0.0 (No matching choice)
+74 got project satisfaction score 1.0, since Earnit was their Choice 1
+-> Average satisfaction for project 'Earnit': 0.28
+Belbin Roles: ['IMP', 'RES', 'PLA', 'SPE', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.50
+
+Team ID: Honours Programme 3
+========================================
+Evaluating team for project: Honours Programme
+Members: [363, 280, 34, 1, 243]
+363 got project satisfaction score 0.2, since Honours Programme was their Choice 5
+280 got project satisfaction score 0.0 (No matching choice)
+34 got project satisfaction score 0.0 (No matching choice)
+1 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+243 got project satisfaction score 0.2, since Honours Programme was their Choice 5
+-> Average satisfaction for project 'Honours Programme': 0.20
+Belbin Roles: ['COO', 'SHA', 'COM', 'PLA', 'IMP']
+-> Diversity score: 0.80
+
+-> Overall score: 0.50
+
+Team ID: Shotmaniacs 4
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [334, 333, 109, 344, 68]
+334 got project satisfaction score 0.6, since Shotmaniacs was their Choice 3
+333 got project satisfaction score 0.2, since Shotmaniacs was their Choice 5
+109 got project satisfaction score 0.2, since Shotmaniacs was their Choice 5
+344 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+68 got project satisfaction score 0.2, since Shotmaniacs was their Choice 5
+-> Average satisfaction for project 'Shotmaniacs': 0.44
+Belbin Roles: ['COO', 'IMP', 'SHA', 'SPE', 'RES']
+-> Diversity score: 0.80
+
+-> Overall score: 0.62
+
+Team ID: Honours Programme 4
+========================================
+Evaluating team for project: Honours Programme
+Members: [248, 331, 159, 353, 341]
+248 got project satisfaction score 0.0 (No matching choice)
+331 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+159 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+353 got project satisfaction score 0.0 (No matching choice)
+341 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+-> Average satisfaction for project 'Honours Programme': 0.40
+Belbin Roles: ['SPE', 'SPE', 'PLA', 'COO', 'PLA']
+-> Diversity score: 0.64
+
+-> Overall score: 0.52
+
+Team ID: Earnit 4
+========================================
+Evaluating team for project: Earnit
+Members: [242, 244, 362, 369, 5]
+242 got project satisfaction score 0.8, since Earnit was their Choice 2
+244 got project satisfaction score 0.8, since Earnit was their Choice 2
+362 got project satisfaction score 0.6, since Earnit was their Choice 3
+369 got project satisfaction score 0.0 (No matching choice)
+5 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Earnit': 0.44
+Belbin Roles: ['SPE', 'COM', 'COO', 'IMP', 'SHA']
+-> Diversity score: 0.80
+
+-> Overall score: 0.62
+
+Team ID: Honours Programme 5
+========================================
+Evaluating team for project: Honours Programme
+Members: [164, 106, 317, 165, 359]
+164 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+106 got project satisfaction score 1.0, since Honours Programme was their Choice 1
+317 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+165 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+359 got project satisfaction score 0.2, since Honours Programme was their Choice 5
+-> Average satisfaction for project 'Honours Programme': 0.56
+Belbin Roles: ['PLA', 'SPE', 'COO', 'COO', 'RES']
+-> Diversity score: 0.72
+
+-> Overall score: 0.64
+
+Team ID: Shotmaniacs 5
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [118, 268, 155, 325, 77]
+118 got project satisfaction score 0.0 (No matching choice)
+268 got project satisfaction score 0.4, since Shotmaniacs was their Choice 4
+155 got project satisfaction score 0.0 (No matching choice)
+325 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+77 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Shotmaniacs': 0.28
+Belbin Roles: ['TEA', 'TEA', 'IMP', 'IMP', 'SPE']
+-> Diversity score: 0.64
+
+-> Overall score: 0.46
+
+Team ID: Topicus 2
+========================================
+Evaluating team for project: Topicus
+Members: [152, 380, 404, 69, 126]
+152 got project satisfaction score 0.2, since Topicus was their Choice 5
+380 got project satisfaction score 0.2, since Topicus was their Choice 5
+404 got project satisfaction score 0.4, since Topicus was their Choice 4
+69 got project satisfaction score 0.6, since Topicus was their Choice 3
+126 got project satisfaction score 0.4, since Topicus was their Choice 4
+-> Average satisfaction for project 'Topicus': 0.36
+Belbin Roles: ['SHA', 'SPE', 'MON', 'RES', 'IMP']
+-> Diversity score: 0.80
+
+-> Overall score: 0.58
+
+Team ID: Shotmaniacs 6
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [104, 390, 262, 28, 352]
+104 got project satisfaction score 0.2, since Shotmaniacs was their Choice 5
+390 got project satisfaction score 0.0 (No matching choice)
+262 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+28 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+352 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Shotmaniacs': 0.40
+Belbin Roles: ['SHA', 'PLA', 'SHA', 'COO', 'MON']
+-> Diversity score: 0.72
+
+-> Overall score: 0.56
+
+Team ID: Voice 2
+========================================
+Evaluating team for project: Voice
+Members: [120, 166, 251, 151, 30]
+120 got project satisfaction score 0.0 (No matching choice)
+166 got project satisfaction score 0.8, since Voice was their Choice 2
+251 got project satisfaction score 0.8, since Voice was their Choice 2
+151 got project satisfaction score 1.0, since Voice was their Choice 1
+30 got project satisfaction score 1.0, since Voice was their Choice 1
+-> Average satisfaction for project 'Voice': 0.72
+Belbin Roles: ['IMP', 'IMP', 'PLA', 'SHA', 'COO']
+-> Diversity score: 0.72
+
+-> Overall score: 0.72
+
+Team ID: actFact 4
+========================================
+Evaluating team for project: actFact
+Members: [172, 348, 143, 111, 154]
+172 got project satisfaction score 0.0 (No matching choice)
+348 got project satisfaction score 0.2, since actFact was their Choice 5
+143 got project satisfaction score 0.0 (No matching choice)
+111 got project satisfaction score 0.0 (No matching choice)
+154 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'actFact': 0.04
+Belbin Roles: ['PLA', 'PLA', 'COO', 'COO', 'IMP']
+-> Diversity score: 0.64
+
+-> Overall score: 0.34
+
+Team ID: Inter-actief 4
+========================================
+Evaluating team for project: Inter-actief
+Members: [245, 258, 115, 161, 122]
+245 got project satisfaction score 0.0 (No matching choice)
+258 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+115 got project satisfaction score 0.0 (No matching choice)
+161 got project satisfaction score 1.0, since Inter-actief was their Choice 1
+122 got project satisfaction score 0.4, since Inter-actief was their Choice 4
+-> Average satisfaction for project 'Inter-actief': 0.32
+Belbin Roles: ['SPE', 'IMP', 'RES', 'COO', 'TEA']
+-> Diversity score: 0.80
+
+-> Overall score: 0.56
+
+Team ID: Voice 3
+========================================
+Evaluating team for project: Voice
+Members: [336, 270, 276, 371, 92]
+336 got project satisfaction score 0.4, since Voice was their Choice 4
+270 got project satisfaction score 0.8, since Voice was their Choice 2
+276 got project satisfaction score 0.6, since Voice was their Choice 3
+371 got project satisfaction score 1.0, since Voice was their Choice 1
+92 got project satisfaction score 1.0, since Voice was their Choice 1
+-> Average satisfaction for project 'Voice': 0.76
+Belbin Roles: ['COO', 'IMP', 'PLA', 'MON', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.74
+
+Team ID: Earnit 5
+========================================
+Evaluating team for project: Earnit
+Members: [47, 8, 320, 160, 26]
+47 got project satisfaction score 1.0, since Earnit was their Choice 1
+8 got project satisfaction score 0.0 (No matching choice)
+320 got project satisfaction score 0.0 (No matching choice)
+160 got project satisfaction score 0.0 (No matching choice)
+26 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Earnit': 0.20
+Belbin Roles: ['IMP', 'SPE', 'SHA', 'IMP', 'COM']
+-> Diversity score: 0.72
+
+-> Overall score: 0.46
+
+Team ID: Topicus 3
+========================================
+Evaluating team for project: Topicus
+Members: [342, 318, 72, 167, 310]
+342 got project satisfaction score 0.8, since Topicus was their Choice 2
+318 got project satisfaction score 0.6, since Topicus was their Choice 3
+72 got project satisfaction score 0.6, since Topicus was their Choice 3
+167 got project satisfaction score 0.2, since Topicus was their Choice 5
+310 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Topicus': 0.44
+Belbin Roles: ['IMP', 'IMP', 'SPE', 'SPE', 'IMP']
+-> Diversity score: 0.48
+
+-> Overall score: 0.46
+
+Team ID: actFact 5
+========================================
+Evaluating team for project: actFact
+Members: [113, 330, 329, 94, 361]
+113 got project satisfaction score 0.0 (No matching choice)
+330 got project satisfaction score 0.0 (No matching choice)
+329 got project satisfaction score 0.0 (No matching choice)
+94 got project satisfaction score 0.0 (No matching choice)
+361 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'actFact': 0.00
+Belbin Roles: ['SHA', 'COM', 'PLA', 'IMP', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.36
+
+Team ID: Inter-actief 5
+========================================
+Evaluating team for project: Inter-actief
+Members: [139, 274, 35, 87, 20]
+139 got project satisfaction score 1.0, since Inter-actief was their Choice 1
+274 got project satisfaction score 0.0 (No matching choice)
+35 got project satisfaction score 0.0 (No matching choice)
+87 got project satisfaction score 0.0 (No matching choice)
+20 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Inter-actief': 0.20
+Belbin Roles: ['SPE', 'PLA', 'SPE', 'TEA', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.46
+
+Team ID: Inter-actief 6
+========================================
+Evaluating team for project: Inter-actief
+Members: [15, 124, 133, 240, 401]
+15 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+124 got project satisfaction score 0.4, since Inter-actief was their Choice 4
+133 got project satisfaction score 0.0 (No matching choice)
+240 got project satisfaction score 0.0 (No matching choice)
+401 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Inter-actief': 0.12
+Belbin Roles: ['IMP', 'COM', 'TEA', 'SPE', 'PLA']
+-> Diversity score: 0.80
+
+-> Overall score: 0.46
+
+Team ID: Voice 4
+========================================
+Evaluating team for project: Voice
+Members: [392, 3, 319, 350, 395]
+392 got project satisfaction score 1.0, since Voice was their Choice 1
+3 got project satisfaction score 0.4, since Voice was their Choice 4
+319 got project satisfaction score 0.4, since Voice was their Choice 4
+350 got project satisfaction score 0.0 (No matching choice)
+395 got project satisfaction score 0.8, since Voice was their Choice 2
+-> Average satisfaction for project 'Voice': 0.52
+Belbin Roles: ['IMP', 'MON', 'IMP', 'IMP', 'SHA']
+-> Diversity score: 0.56
+
+-> Overall score: 0.54
+
+Team ID: Inter-actief 7
+========================================
+Evaluating team for project: Inter-actief
+Members: [347, 83, 9, 386, 170]
+347 got project satisfaction score 0.0 (No matching choice)
+83 got project satisfaction score 0.2, since Inter-actief was their Choice 5
+9 got project satisfaction score 0.0 (No matching choice)
+386 got project satisfaction score 0.0 (No matching choice)
+170 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Inter-actief': 0.04
+Belbin Roles: ['SPE', 'TEA', 'TEA', 'IMP', 'IMP']
+-> Diversity score: 0.64
+
+-> Overall score: 0.34
+
+Team ID: Voice 5
+========================================
+Evaluating team for project: Voice
+Members: [54, 396, 90, 305, 78]
+54 got project satisfaction score 0.0 (No matching choice)
+396 got project satisfaction score 0.8, since Voice was their Choice 2
+90 got project satisfaction score 0.4, since Voice was their Choice 4
+305 got project satisfaction score 0.0 (No matching choice)
+78 got project satisfaction score 0.6, since Voice was their Choice 3
+-> Average satisfaction for project 'Voice': 0.36
+Belbin Roles: ['COM', 'COO', 'IMP', 'COM', 'PLA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.54
+
+Team ID: Topicus 4
+========================================
+Evaluating team for project: Topicus
+Members: [284, 316, 137, 91, 384]
+284 got project satisfaction score 0.6, since Topicus was their Choice 3
+316 got project satisfaction score 0.6, since Topicus was their Choice 3
+137 got project satisfaction score 0.8, since Topicus was their Choice 2
+91 got project satisfaction score 0.8, since Topicus was their Choice 2
+384 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Topicus': 0.56
+Belbin Roles: ['SHA', 'MON', 'PLA', 'IMP', 'COM']
+-> Diversity score: 0.80
+
+-> Overall score: 0.68
+
+Team ID: Earnit 6
+========================================
+Evaluating team for project: Earnit
+Members: [370, 264, 324, 107, 76]
+370 got project satisfaction score 0.0 (No matching choice)
+264 got project satisfaction score 0.0 (No matching choice)
+324 got project satisfaction score 0.0 (No matching choice)
+107 got project satisfaction score 0.0 (No matching choice)
+76 got project satisfaction score 1.0, since Earnit was their Choice 1
+-> Average satisfaction for project 'Earnit': 0.20
+Belbin Roles: ['MON', 'TEA', 'IMP', 'SPE', 'IMP']
+-> Diversity score: 0.72
+
+-> Overall score: 0.46
+
+Team ID: Honours Programme 6
+========================================
+Evaluating team for project: Honours Programme
+Members: [247, 95, 367, 306, 27]
+247 got project satisfaction score 0.0 (No matching choice)
+95 got project satisfaction score 0.0 (No matching choice)
+367 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+306 got project satisfaction score 0.0 (No matching choice)
+27 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+-> Average satisfaction for project 'Honours Programme': 0.24
+Belbin Roles: ['IMP', 'COM', 'SPE', 'COM', 'RES']
+-> Diversity score: 0.72
+
+-> Overall score: 0.48
+
+Team ID: Voice 6
+========================================
+Evaluating team for project: Voice
+Members: [295, 360, 56, 88, 93]
+295 got project satisfaction score 0.4, since Voice was their Choice 4
+360 got project satisfaction score 1.0, since Voice was their Choice 1
+56 got project satisfaction score 0.0 (No matching choice)
+88 got project satisfaction score 0.4, since Voice was their Choice 4
+93 got project satisfaction score 1.0, since Voice was their Choice 1
+-> Average satisfaction for project 'Voice': 0.56
+Belbin Roles: ['PLA', 'TEA', 'SPE', 'COO', 'PLA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.64
+
+Team ID: Topicus 5
+========================================
+Evaluating team for project: Topicus
+Members: [298, 321, 315, 129, 265]
+298 got project satisfaction score 0.0 (No matching choice)
+321 got project satisfaction score 0.6, since Topicus was their Choice 3
+315 got project satisfaction score 0.0 (No matching choice)
+129 got project satisfaction score 0.4, since Topicus was their Choice 4
+265 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Topicus': 0.20
+Belbin Roles: ['SHA', 'COM', 'TEA', 'MON', 'RES']
+-> Diversity score: 0.80
+
+-> Overall score: 0.50
+
+Team ID: Topicus 6
+========================================
+Evaluating team for project: Topicus
+Members: [123, 364, 23, 96, 376]
+123 got project satisfaction score 0.2, since Topicus was their Choice 5
+364 got project satisfaction score 0.4, since Topicus was their Choice 4
+23 got project satisfaction score 0.6, since Topicus was their Choice 3
+96 got project satisfaction score 0.0 (No matching choice)
+376 got project satisfaction score 0.2, since Topicus was their Choice 5
+-> Average satisfaction for project 'Topicus': 0.28
+Belbin Roles: ['TEA', 'SPE', 'TEA', 'COO', 'PLA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.50
+
+Team ID: Shotmaniacs 7
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [267, 398, 340, 345, 57]
+267 got project satisfaction score 0.4, since Shotmaniacs was their Choice 4
+398 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+340 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+345 got project satisfaction score 1.0, since Shotmaniacs was their Choice 1
+57 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Shotmaniacs': 0.68
+Belbin Roles: ['TEA', 'TEA', 'SHA', 'SPE', 'SHA']
+-> Diversity score: 0.64
+
+-> Overall score: 0.66
+
+Team ID: actFact 6
+========================================
+Evaluating team for project: actFact
+Members: [292, 149, 121, 11, 25]
+292 got project satisfaction score 0.0 (No matching choice)
+149 got project satisfaction score 0.2, since actFact was their Choice 5
+121 got project satisfaction score 0.0 (No matching choice)
+11 got project satisfaction score 1.0, since actFact was their Choice 1
+25 got project satisfaction score 0.2, since actFact was their Choice 5
+-> Average satisfaction for project 'actFact': 0.28
+Belbin Roles: ['PLA', 'MON', 'COO', 'MON', 'COO']
+-> Diversity score: 0.64
+
+-> Overall score: 0.46
+
+Team ID: actFact 7
+========================================
+Evaluating team for project: actFact
+Members: [36, 48, 400, 397, 75]
+36 got project satisfaction score 1.0, since actFact was their Choice 1
+48 got project satisfaction score 0.4, since actFact was their Choice 4
+400 got project satisfaction score 0.0 (No matching choice)
+397 got project satisfaction score 0.0 (No matching choice)
+75 got project satisfaction score 0.4, since actFact was their Choice 4
+-> Average satisfaction for project 'actFact': 0.36
+Belbin Roles: ['TEA', 'SHA', 'IMP', 'COO', 'SHA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.54
+
+Team ID: Topicus 7
+========================================
+Evaluating team for project: Topicus
+Members: [18, 55, 50, 125, 7]
+18 got project satisfaction score 0.0 (No matching choice)
+55 got project satisfaction score 0.0 (No matching choice)
+50 got project satisfaction score 0.0 (No matching choice)
+125 got project satisfaction score 0.2, since Topicus was their Choice 5
+7 got project satisfaction score 0.4, since Topicus was their Choice 4
+-> Average satisfaction for project 'Topicus': 0.12
+Belbin Roles: ['TEA', 'MON', 'COM', 'COO', 'IMP']
+-> Diversity score: 0.80
+
+-> Overall score: 0.46
+
+Team ID: Earnit 7
+========================================
+Evaluating team for project: Earnit
+Members: [250, 51, 302, 168, 312]
+250 got project satisfaction score 0.4, since Earnit was their Choice 4
+51 got project satisfaction score 1.0, since Earnit was their Choice 1
+302 got project satisfaction score 0.0 (No matching choice)
+168 got project satisfaction score 0.0 (No matching choice)
+312 got project satisfaction score 0.4, since Earnit was their Choice 4
+-> Average satisfaction for project 'Earnit': 0.36
+Belbin Roles: ['COM', 'COO', 'SPE', 'SPE', 'SHA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.54
+
+Team ID: Topicus 8
+========================================
+Evaluating team for project: Topicus
+Members: [86, 81, 355, 388, 393]
+86 got project satisfaction score 0.8, since Topicus was their Choice 2
+81 got project satisfaction score 0.8, since Topicus was their Choice 2
+355 got project satisfaction score 1.0, since Topicus was their Choice 1
+388 got project satisfaction score 0.6, since Topicus was their Choice 3
+393 got project satisfaction score 0.6, since Topicus was their Choice 3
+-> Average satisfaction for project 'Topicus': 0.76
+Belbin Roles: ['MON', 'RES', 'MON', 'SPE', 'MON']
+-> Diversity score: 0.56
+
+-> Overall score: 0.66
+
+Team ID: Shotmaniacs 8
+========================================
+Evaluating team for project: Shotmaniacs
+Members: [385, 339, 13, 73, 291]
+385 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+339 got project satisfaction score 0.6, since Shotmaniacs was their Choice 3
+13 got project satisfaction score 0.0 (No matching choice)
+73 got project satisfaction score 0.0 (No matching choice)
+291 got project satisfaction score 0.8, since Shotmaniacs was their Choice 2
+-> Average satisfaction for project 'Shotmaniacs': 0.44
+Belbin Roles: ['COO', 'SPE', 'SHA', 'SHA', 'SHA']
+-> Diversity score: 0.56
+
+-> Overall score: 0.50
+
+Team ID: Earnit 8
+========================================
+Evaluating team for project: Earnit
+Members: [383, 135, 293, 52, 378]
+383 got project satisfaction score 0.4, since Earnit was their Choice 4
+135 got project satisfaction score 0.6, since Earnit was their Choice 3
+293 got project satisfaction score 0.6, since Earnit was their Choice 3
+52 got project satisfaction score 1.0, since Earnit was their Choice 1
+378 got project satisfaction score 0.6, since Earnit was their Choice 3
+-> Average satisfaction for project 'Earnit': 0.64
+Belbin Roles: ['SPE', 'SHA', 'COM', 'RES', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.68
+
+Team ID: Honours Programme 7
+========================================
+Evaluating team for project: Honours Programme
+Members: [97, 249, 387, 53, 66]
+97 got project satisfaction score 0.0 (No matching choice)
+249 got project satisfaction score 0.0 (No matching choice)
+387 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+53 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+66 got project satisfaction score 0.0 (No matching choice)
+-> Average satisfaction for project 'Honours Programme': 0.24
+Belbin Roles: ['TEA', 'COO', 'MON', 'PLA', 'IMP']
+-> Diversity score: 0.80
+
+-> Overall score: 0.52
+
+Team ID: Voice 7
+========================================
+Evaluating team for project: Voice
+Members: [272, 266, 288, 140, 84]
+272 got project satisfaction score 0.8, since Voice was their Choice 2
+266 got project satisfaction score 1.0, since Voice was their Choice 1
+288 got project satisfaction score 0.0 (No matching choice)
+140 got project satisfaction score 0.2, since Voice was their Choice 5
+84 got project satisfaction score 0.4, since Voice was their Choice 4
+-> Average satisfaction for project 'Voice': 0.48
+Belbin Roles: ['SHA', 'RES', 'SPE', 'TEA', 'SHA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.60
+
+Team ID: Voice 8
+========================================
+Evaluating team for project: Voice
+Members: [299, 70, 356, 71, 301]
+299 got project satisfaction score 0.8, since Voice was their Choice 2
+70 got project satisfaction score 0.0 (No matching choice)
+356 got project satisfaction score 0.2, since Voice was their Choice 5
+71 got project satisfaction score 0.0 (No matching choice)
+301 got project satisfaction score 0.8, since Voice was their Choice 2
+-> Average satisfaction for project 'Voice': 0.36
+Belbin Roles: ['COM', 'PLA', 'COM', 'PLA', 'IMP']
+-> Diversity score: 0.64
+
+-> Overall score: 0.50
+
+Team ID: Honours Programme 8
+========================================
+Evaluating team for project: Honours Programme
+Members: [142, 332, 366, 304, 338]
+142 got project satisfaction score 0.4, since Honours Programme was their Choice 4
+332 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+366 got project satisfaction score 0.6, since Honours Programme was their Choice 3
+304 got project satisfaction score 0.0 (No matching choice)
+338 got project satisfaction score 0.8, since Honours Programme was their Choice 2
+-> Average satisfaction for project 'Honours Programme': 0.52
+Belbin Roles: ['TEA', 'SPE', 'COO', 'IMP', 'SPE']
+-> Diversity score: 0.72
+
+-> Overall score: 0.62
+
+Team ID: actFact 8
+========================================
+Evaluating team for project: actFact
+Members: [24, 132, 372, 289, 309]
+24 got project satisfaction score 0.6, since actFact was their Choice 3
+132 got project satisfaction score 0.0 (No matching choice)
+372 got project satisfaction score 0.2, since actFact was their Choice 5
+289 got project satisfaction score 0.0 (No matching choice)
+309 got project satisfaction score 1.0, since actFact was their Choice 1
+-> Average satisfaction for project 'actFact': 0.36
+Belbin Roles: ['SPE', 'IMP', 'COO', 'SPE', 'TEA']
+-> Diversity score: 0.72
+
+-> Overall score: 0.54
+
+
+Final score for arrangement 6: 0.5357

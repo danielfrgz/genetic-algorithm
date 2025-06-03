@@ -10,7 +10,7 @@ by **Daniel Frutos Rodriguez**.
 
 Frutos-Rodriguez D., Barrios-Fleitas Y., and Lalla E. 2025. _A Comparison of Optimization Techniques for Solving the Team Formation Problem._ In _Proceedings Placeholder_. ACM, New York, NY, USA, 6 pages. [https://doi.org/10.1145/nnnnnnn.nnnnnnn](https://doi.org/10.1145/nnnnnnn.nnnnnnn)
 
-> Last updated: **27/05/2025**
+> Last updated: **03/06/2025**
 
 ## Usage
 
