@@ -1,0 +1,276 @@
+ID;Program;Nationality;Choice 1;Choice 2;Choice 3;Choice 4;Choice 5;Belbin;Gender;Assigned Project;Team Number
+1;B-TCS;Dutch;actFact;Shotmaniacs;Honours Programme;Voice;Topicus;PLA;Male;Actfact;1
+2;B-BIT;Dutch;actFact;Shotmaniacs;Honours Programme;Voice;Topicus;IMP;Male;Actfact;1
+3;B-BIT;Dutch;actFact;Shotmaniacs;Honours Programme;Voice;Topicus;MON;Male;Actfact;1
+4;B-TCS;Dutch;actFact;Shotmaniacs;Honours Programme;Voice;Topicus;PLA;Male;Actfact;1
+5;B-TCS;Dutch;actFact;Shotmaniacs;Honours Programme;Voice;Topicus;SHA;Male;Actfact;1
+6;B-TCS;Dutch;actFact;Shotmaniacs;Honours Programme;Voice;Topicus;SPE;Male;Actfact;1
+7;B-TCS;Dutch;actFact;Voice;Shotmaniacs;Topicus;Honours Programme;IMP;Male;Actfact;2
+8;B-TCS;Turkish;actFact;Voice;Shotmaniacs;Topicus;Honours Programme;SPE;Female;Actfact;2
+10;B-BIT;Romanian;actFact;Voice;Shotmaniacs;Topicus;Honours Programme;IMP;Female;Actfact;2
+11;B-TCS;Romanian;actFact;Voice;Shotmaniacs;Topicus;Honours Programme;MON;Male;Actfact;2
+12;B-TCS;Dutch;actFact;Voice;Shotmaniacs;Topicus;Honours Programme;COM;Male;Actfact;2
+13;B-TCS;Romanian;Voice;actFact;Honours Programme;Earnit;Inter-actief;SHA;Male;Actfact;3
+14;B-TCS;Romanian;Voice;actFact;Honours Programme;Earnit;Inter-actief;SHA;Female;Actfact;3
+15;B-TCS;Dutch;Voice;actFact;Honours Programme;Earnit;Inter-actief;IMP;Male;Actfact;3
+16;B-BIT;Egyptian;Voice;actFact;Honours Programme;Earnit;Inter-actief;TEA;Female;Actfact;3
+17;B-TCS;Romanian;Voice;actFact;Honours Programme;Earnit;Inter-actief;TEA;Male;Actfact;3
+18;B-BIT;Polish;Voice;actFact;Honours Programme;Earnit;Inter-actief;TEA;Female;Actfact;3
+20;B-TCS;Dutch;Shotmaniacs;Honours Programme;actFact;Notebridge;Entweder;IMP;Male;Actfact;4
+21;B-TCS;Dutch;Shotmaniacs;Honours Programme;actFact;Notebridge;Entweder;SPE;Female;Actfact;4
+22;B-TCS;Dutch;Shotmaniacs;Honours Programme;actFact;Notebridge;Entweder;COM;Male;Actfact;4
+23;B-BIT;Romanian;Shotmaniacs;Voice;Topicus;Earnit;eMagiz;TEA;Male;Actfact;4
+24;B-TCS;Dutch;Shotmaniacs;Honours Programme;actFact;Notebridge;Entweder;SPE;Male;Actfact;4
+25;B-BIT;Romanian;Voice;Shotmaniacs;Honours Programme;Topicus;actFact;COO;Female;Actfact;5
+26;B-TCS;Bangladeshi;Voice;Shotmaniacs;Honours Programme;Topicus;actFact;COM;Male;Actfact;5
+27;B-BIT;Norwegian;Voice;Shotmaniacs;Honours Programme;Topicus;actFact;RES;Male;Actfact;5
+28;B-TCS;Dutch;Voice;Shotmaniacs;Honours Programme;Topicus;actFact;COO;Male;Actfact;5
+30;B-TCS;Dutch;Voice;Shotmaniacs;Honours Programme;Topicus;actFact;COO;Male;Actfact;5
+32;B-BIT;Romanian;actFact;Topicus;Voice;Earnit;Entweder;COO;Male;Actfact;6
+33;B-TCS;Dutch;actFact;Topicus;Voice;Earnit;Entweder;SPE;Male;Actfact;6
+34;B-TCS;Spanish;actFact;Topicus;Voice;Earnit;Entweder;COM;Female;Actfact;6
+35;B-TCS;Dutch;actFact;Topicus;Voice;Earnit;Entweder;SPE;Male;Actfact;6
+36;B-TCS;Romanian;actFact;Topicus;Voice;Earnit;Entweder;TEA;Male;Actfact;6
+46;B-TCS;Dutch;Earnit;Shotmaniacs;Voice;actFact;Entweder;SPE;Male;Earnit;1
+47;B-TCS;Dutch;Earnit;Shotmaniacs;Voice;actFact;Entweder;IMP;Male;Earnit;1
+48;B-TCS;Dutch;Earnit;Shotmaniacs;Voice;actFact;Entweder;SHA;Male;Earnit;1
+49;B-BIT;Dutch;Earnit;Shotmaniacs;Voice;actFact;Entweder;IMP;Male;Earnit;1
+50;B-TCS;Dutch;Earnit;Shotmaniacs;Voice;actFact;Entweder;COM;Male;Earnit;1
+51;B-BIT;Dutch;Earnit;Shotmaniacs;Voice;actFact;Entweder;COO;Male;Earnit;1
+52;B-BIT;Lithuanian;Earnit;Honours Programme;Entweder;Inter-actief;Rosen;RES;Female;Earnit;2
+53;B-TCS;Hungarian;Earnit;Honours Programme;Entweder;Inter-actief;Rosen;PLA;Male;Earnit;2
+54;B-TCS;Egyptian;Earnit;Honours Programme;Entweder;Inter-actief;Rosen;COM;Male;Earnit;2
+55;B-TCS;Greek;Earnit;Honours Programme;Entweder;Inter-actief;Rosen;MON;Male;Earnit;2
+56;B-BIT;Spanish;Earnit;Honours Programme;Entweder;Inter-actief;Rosen;SPE;Female;Earnit;2
+57;B-TCS;Lithuanian;Earnit;Honours Programme;Entweder;Inter-actief;Rosen;SHA;Male;Earnit;2
+64;B-TCS;Dutch;Earnit;Notebridge;Topicus;Voice;Shotmaniacs;COM;Male;Earnit;4
+65;B-BIT;Polish;Earnit;Notebridge;Topicus;Voice;Shotmaniacs;SHA;Male;Earnit;4
+66;B-TCS;Dutch;Earnit;Notebridge;Topicus;Voice;Shotmaniacs;IMP;Male;Earnit;4
+67;B-TCS;Romanian;Earnit;Notebridge;Topicus;Voice;Shotmaniacs;RES;Male;Earnit;4
+68;B-TCS;Dutch;Earnit;Notebridge;Topicus;Voice;Shotmaniacs;RES;Male;Earnit;4
+69;B-BIT;German;Earnit;Notebridge;Topicus;Voice;Shotmaniacs;RES;Male;Earnit;4
+70;B-TCS;Vietnamese;Earnit;eMagiz;Topicus;actFact;Entweder;PLA;Male;Earnit;5
+71;B-TCS;Vietnamese;Earnit;eMagiz;Topicus;actFact;Entweder;PLA;Male;Earnit;5
+72;B-TCS;Dutch;Earnit;eMagiz;Topicus;actFact;Entweder;SPE;Male;Earnit;5
+73;B-BIT;Azerbaijani;Earnit;eMagiz;Topicus;actFact;Entweder;SHA;Male;Earnit;5
+74;B-TCS;Vietnamese;Earnit;eMagiz;Topicus;actFact;Entweder;SPE;Male;Earnit;5
+75;B-BIT;Romanian;Earnit;eMagiz;Topicus;actFact;Entweder;SHA;Male;Earnit;5
+76;X-TCS;Spanish;Earnit;Topicus;Voice;eMagiz;actFact;IMP;Male;Earnit;6
+77;B-BIT;Chinese;Earnit;Topicus;Voice;eMagiz;actFact;SPE;Male;Earnit;6
+78;B-BIT;Chinese;Earnit;Topicus;Voice;eMagiz;actFact;PLA;Male;Earnit;6
+80;B-TCS;Dutch;Earnit;Topicus;Voice;eMagiz;actFact;COO;Male;Earnit;6
+81;B-TCS;Chinese;Earnit;Topicus;Voice;eMagiz;actFact;RES;Female;Earnit;6
+86;B-TCS;Uzbek;Shotmaniacs;Topicus;eMagiz;Voice;Notebridge;MON;Male;eMagiz;1
+87;X-TCS;Chinese;Shotmaniacs;Topicus;eMagiz;Voice;Notebridge;TEA;Male;eMagiz;1
+88;B-BIT;Romanian;Shotmaniacs;Topicus;eMagiz;Voice;Notebridge;COO;Female;eMagiz;1
+89;B-BIT;Ukrainian;Shotmaniacs;Topicus;eMagiz;Voice;Notebridge;IMP;Male;eMagiz;1
+90;X-TCS;Turkish;Shotmaniacs;Topicus;eMagiz;Voice;Notebridge;IMP;Male;eMagiz;1
+91;B-TCS;Ukrainian;Shotmaniacs;Topicus;eMagiz;Voice;Notebridge;IMP;Male;eMagiz;1
+92;B-TCS;Russian;Voice;eMagiz;Notebridge;Entweder;Earnit;IMP;Male;eMagiz;2
+93;B-TCS;Bulgarian;Voice;eMagiz;Notebridge;Entweder;Earnit;PLA;Male;eMagiz;2
+94;B-BIT;Dutch;Voice;eMagiz;Notebridge;Entweder;Earnit;IMP;Male;eMagiz;2
+95;B-TCS;Iranian;Voice;eMagiz;Notebridge;Entweder;Earnit;COM;Male;eMagiz;2
+96;B-BIT;Dutch;Voice;eMagiz;Notebridge;Entweder;Earnit;COO;Male;eMagiz;2
+97;B-TCS;Bulgarian;Voice;eMagiz;Notebridge;Entweder;Earnit;TEA;Male;eMagiz;2
+104;B-TCS;Uzbek;Honours Programme;Topicus;Voice;eMagiz;Shotmaniacs;SHA;Male;Honours Programme;1
+105;B-BIT;Romanian;Honours Programme;Topicus;Voice;eMagiz;Shotmaniacs;TEA;Female;Honours Programme;1
+106;B-TCS;Kazakh;Honours Programme;Topicus;Voice;eMagiz;Shotmaniacs;SPE;Male;Honours Programme;1
+107;B-TCS;Romanian;Honours Programme;Topicus;Voice;eMagiz;Shotmaniacs;SPE;Male;Honours Programme;1
+109;B-TCS;Latvian;Honours Programme;Topicus;Voice;eMagiz;Shotmaniacs;SHA;Male;Honours Programme;1
+111;B-TCS;Dutch;Honours Programme;Earnit;Voice;Notebridge;Shotmaniacs;COO;Male;Honours Programme;2
+112;B-TCS;Egyptian;Honours Programme;Earnit;Voice;Notebridge;Shotmaniacs;TEA;Male;Honours Programme;2
+113;B-TCS;Czech;Honours Programme;Earnit;Voice;Notebridge;Shotmaniacs;SHA;Male;Honours Programme;2
+114;B-TCS;Spanish;Honours Programme;Earnit;Voice;Notebridge;Shotmaniacs;IMP;Male;Honours Programme;2
+115;B-BIT;Romanian;Honours Programme;eMagiz;Topicus;Voice;actFact;RES;Female;Honours Programme;3
+117;B-BIT;Russian;Honours Programme;eMagiz;Topicus;Voice;actFact;MON;Female;Honours Programme;3
+118;B-BIT;Romanian;Honours Programme;eMagiz;Topicus;Voice;actFact;TEA;Female;Honours Programme;3
+119;B-TCS;Romanian;Honours Programme;eMagiz;Topicus;Voice;actFact;SHA;Female;Honours Programme;3
+120;B-TCS;Dutch;Shotmaniacs;Honours Programme;Earnit;Inter-actief;Topicus;IMP;Female;Honours Programme;4
+121;B-TCS;Turkish;Shotmaniacs;Honours Programme;Earnit;Inter-actief;Topicus;COO;Female;Honours Programme;4
+122;B-TCS;Turkish;Shotmaniacs;Honours Programme;Earnit;Inter-actief;Topicus;TEA;Male;Honours Programme;4
+123;B-BIT;Dutch;Shotmaniacs;Honours Programme;Earnit;Inter-actief;Topicus;TEA;Male;Honours Programme;4
+124;B-TCS;Romanian;Shotmaniacs;Honours Programme;Earnit;Inter-actief;Topicus;COM;Female;Honours Programme;4
+125;B-BIT;Dutch;Shotmaniacs;Honours Programme;Earnit;Inter-actief;Topicus;COO;Female;Honours Programme;4
+126;B-TCS;Dutch;Shotmaniacs;Earnit;Honours Programme;Topicus;Rosen;IMP;Male;Honours Programme;5
+127;B-TCS;Romanian;Shotmaniacs;Earnit;Honours Programme;Topicus;Rosen;RES;Male;Honours Programme;5
+128;B-TCS;Romanian;Shotmaniacs;Earnit;Honours Programme;Topicus;Rosen;SPE;Male;Honours Programme;5
+129;B-BIT;Italian;Shotmaniacs;Earnit;Honours Programme;Topicus;Rosen;MON;Male;Honours Programme;5
+130;B-BIT;Dutch;Shotmaniacs;Earnit;Honours Programme;Topicus;Rosen;SPE;Male;Honours Programme;5
+132;B-TCS;Romanian;Honours Programme;Topicus;Earnit;Rosen;Notebridge;IMP;Male;Honours Programme;6
+133;B-TCS;Spanish;Honours Programme;Topicus;Earnit;Rosen;Notebridge;TEA;Male;Honours Programme;6
+134;B-BIT;Dutch;Honours Programme;Topicus;Earnit;Rosen;Notebridge;SHA;Male;Honours Programme;6
+135;B-TCS;Dutch;Honours Programme;Topicus;Earnit;Rosen;Notebridge;SHA;Male;Honours Programme;6
+136;B-BIT;Dutch;Honours Programme;Topicus;Earnit;Rosen;Notebridge;SHA;Male;Honours Programme;6
+137;B-TCS;Dutch;Honours Programme;Topicus;Earnit;Rosen;Notebridge;PLA;Male;Honours Programme;6
+138;B-BIT;Dutch;Inter-actief;Shotmaniacs;Topicus;Honours Programme;Voice;IMP;Female;Inter-Actief;1
+139;B-TCS;Dutch;Inter-actief;Shotmaniacs;Topicus;Honours Programme;Voice;SPE;Male;Inter-Actief;1
+140;B-TCS;Italian;Inter-actief;Shotmaniacs;Topicus;Honours Programme;Voice;TEA;Female;Inter-Actief;1
+141;B-BIT;Finnish;Inter-actief;Shotmaniacs;Topicus;Honours Programme;Voice;IMP;Female;Inter-Actief;1
+142;B-TCS;Dutch;Inter-actief;Shotmaniacs;Topicus;Honours Programme;Voice;TEA;Female;Inter-Actief;1
+143;B-TCS;Dutch;Inter-actief;Shotmaniacs;Topicus;Honours Programme;Voice;COO;Male;Inter-Actief;1
+144;B-BIT;Indonesian;Voice;Shotmaniacs;Inter-actief;Earnit;actFact;IMP;Male;Inter-Actief;2
+145;B-BIT;Indonesian;Voice;Shotmaniacs;Inter-actief;Earnit;actFact;SPE;Male;Inter-Actief;2
+146;B-TCS;Dutch;Voice;Shotmaniacs;Inter-actief;Earnit;actFact;SPE;Male;Inter-Actief;2
+148;X-TCS;Finnish;Voice;Shotmaniacs;Inter-actief;Earnit;actFact;COO;Male;Inter-Actief;2
+149;B-TCS;Dutch;Voice;Shotmaniacs;Inter-actief;Earnit;actFact;MON;Male;Inter-Actief;2
+150;B-TCS;Polish;Voice;Inter-actief;Earnit;Honours Programme;Topicus;SPE;Male;Inter-Actief;3
+151;B-BIT;Bulgarian;Voice;Inter-actief;Earnit;Honours Programme;Topicus;SHA;Male;Inter-Actief;3
+152;B-TCS;Dutch;Voice;Inter-actief;Earnit;Honours Programme;Topicus;SHA;Male;Inter-Actief;3
+153;B-TCS;Japanese;Voice;Inter-actief;Earnit;Honours Programme;Topicus;IMP;Male;Inter-Actief;3
+154;B-TCS;Dutch;Voice;Inter-actief;Earnit;Honours Programme;Topicus;IMP;Male;Inter-Actief;3
+155;B-BIT;Hungarian;Voice;Inter-actief;Earnit;Honours Programme;Topicus;IMP;Male;Inter-Actief;3
+156;X-TCS;Romanian;eMagiz;Inter-actief;Shotmaniacs;Entweder;actFact;PLA;Male;Inter-Actief;4
+158;X-TCS;Romanian;eMagiz;Inter-actief;Shotmaniacs;Entweder;actFact;TEA;Female;Inter-Actief;4
+159;B-TCS;Dutch;Inter-actief;Honours Programme;Topicus;Shotmaniacs;Entweder;PLA;Male;Inter-Actief;4
+160;B-TCS;Dutch;Inter-actief;Honours Programme;Topicus;Shotmaniacs;Entweder;IMP;Male;Inter-Actief;4
+161;B-TCS;Dutch;Inter-actief;Honours Programme;Topicus;Shotmaniacs;Entweder;COO;Male;Inter-Actief;4
+162;B-BIT;Kazakh;Inter-actief;Voice;Earnit;Honours Programme;Topicus;SHA;Male;Inter-Actief;5
+163;B-BIT;German;Inter-actief;Voice;Earnit;Honours Programme;Topicus;IMP;Male;Inter-Actief;5
+164;B-TCS;Romanian;Inter-actief;Voice;Earnit;Honours Programme;Topicus;PLA;Male;Inter-Actief;5
+165;B-TCS;Turkish;Inter-actief;Voice;Earnit;Honours Programme;Topicus;COO;Male;Inter-Actief;5
+166;B-TCS;Lithuanian;Inter-actief;Voice;Earnit;Honours Programme;Topicus;IMP;Male;Inter-Actief;5
+167;B-TCS;Egyptian;Inter-actief;Voice;Earnit;Honours Programme;Topicus;SPE;Male;Inter-Actief;5
+168;B-TCS;Dutch;Rosen;actFact;Topicus;Honours Programme;Entweder;SPE;Male;Inter-Actief;6
+169;B-TCS;Romanian;Earnit;Topicus;Honours Programme;Entweder;Voice;SPE;Male;Inter-Actief;6
+170;B-TCS;Latvian;Earnit;Topicus;Honours Programme;Entweder;Voice;IMP;Male;Inter-Actief;6
+171;B-TCS;Spanish;Earnit;Topicus;Honours Programme;Entweder;Voice;COO;Male;Inter-Actief;6
+172;B-TCS;Russian;Earnit;Topicus;Honours Programme;Entweder;Voice;PLA;Male;Inter-Actief;6
+173;B-TCS;Lithuanian;Rosen;actFact;Topicus;Honours Programme;Entweder;COO;Male;Inter-Actief;6
+240;B-TCS;Romanian;Notebridge;Earnit;Shotmaniacs;Entweder;Honours Programme;SPE;Male;NoteBridge;1
+241;B-TCS;Romanian;Notebridge;Earnit;Shotmaniacs;Entweder;Honours Programme;SHA;Male;NoteBridge;1
+242;B-TCS;Romanian;Notebridge;Earnit;Shotmaniacs;Entweder;Honours Programme;SPE;Male;NoteBridge;1
+243;B-TCS;Dutch;Notebridge;Earnit;Shotmaniacs;Entweder;Honours Programme;IMP;Male;NoteBridge;1
+244;B-TCS;Dutch;Notebridge;Earnit;Shotmaniacs;Entweder;Honours Programme;COM;Male;NoteBridge;1
+245;B-BIT;Romanian;Notebridge;Earnit;Shotmaniacs;Entweder;Honours Programme;SPE;Male;NoteBridge;1
+246;B-TCS;Romanian;Notebridge;Voice;Topicus;Earnit;Shotmaniacs;SPE;Male;NoteBridge;2
+247;B-TCS;Dutch;Notebridge;Voice;Topicus;Earnit;Shotmaniacs;IMP;Male;NoteBridge;2
+248;B-TCS;Dutch;Notebridge;Voice;Topicus;Earnit;Shotmaniacs;SPE;Male;NoteBridge;2
+249;B-BIT;Portuguese;Notebridge;Voice;Topicus;Earnit;Shotmaniacs;COO;Male;NoteBridge;2
+250;B-BIT;Indonesian;Notebridge;Voice;Topicus;Earnit;Shotmaniacs;COM;Male;NoteBridge;2
+251;B-TCS;Dutch;Notebridge;Voice;Topicus;Earnit;Shotmaniacs;PLA;Male;NoteBridge;2
+258;B-TCS;Greek;Shotmaniacs;Notebridge;Earnit;Voice;Inter-actief;IMP;Male;NoteBridge;4
+259;B-TCS;Greek;Shotmaniacs;Notebridge;Earnit;Voice;Inter-actief;COM;Male;NoteBridge;4
+261;B-BIT;Dutch;Shotmaniacs;Notebridge;Earnit;Voice;Inter-actief;SHA;Male;NoteBridge;4
+262;B-TCS;Greek;Shotmaniacs;Notebridge;Earnit;Voice;Inter-actief;SHA;Male;NoteBridge;4
+263;B-BIT;Dutch;Voice;Notebridge;Honours Programme;Shotmaniacs;actFact;IMP;Male;NoteBridge;5
+264;B-BIT;Dutch;Voice;Notebridge;Honours Programme;Shotmaniacs;actFact;TEA;Male;NoteBridge;5
+265;B-TCS;Dutch;Voice;Notebridge;Honours Programme;Shotmaniacs;actFact;RES;Male;NoteBridge;5
+266;B-TCS;Romanian;Voice;Notebridge;Honours Programme;Shotmaniacs;actFact;RES;Female;NoteBridge;5
+267;B-TCS;Romanian;Voice;Notebridge;Honours Programme;Shotmaniacs;actFact;TEA;Female;NoteBridge;5
+268;B-TCS;Dutch;Voice;Notebridge;Honours Programme;Shotmaniacs;actFact;TEA;Female;NoteBridge;5
+269;B-TCS;Lithuanian;Earnit;Voice;Notebridge;Topicus;eMagiz;IMP;Female;NoteBridge;6
+270;B-TCS;Egyptian;Earnit;Voice;Notebridge;Topicus;eMagiz;IMP;Male;NoteBridge;6
+272;B-TCS;Lithuanian;Earnit;Voice;Notebridge;Topicus;eMagiz;SHA;Female;NoteBridge;6
+273;B-BIT;Chinese;Earnit;Voice;Notebridge;Topicus;eMagiz;PLA;Male;NoteBridge;6
+274;B-BIT;Dutch;Earnit;Voice;Notebridge;Topicus;eMagiz;PLA;Male;NoteBridge;6
+276;B-BIT;Spanish;Shotmaniacs;Notebridge;Voice;Rosen;Inter-actief;PLA;Male;Rosen;1
+279;B-BIT;Lithuanian;Shotmaniacs;Notebridge;Voice;Rosen;Inter-actief;TEA;Male;Rosen;1
+280;B-TCS;Romanian;Shotmaniacs;Notebridge;Voice;Rosen;Inter-actief;SHA;Male;Rosen;1
+281;B-BIT;Greek;Shotmaniacs;Notebridge;Voice;Rosen;Inter-actief;RES;Male;Rosen;1
+282;B-TCS;Romanian;Shotmaniacs;Notebridge;Voice;Rosen;Inter-actief;SHA;Male;Rosen;1
+284;B-TCS;Dutch;Shotmaniacs;Earnit;Topicus;Notebridge;Inter-actief;SHA;Male;Rosen;2
+286;B-BIT;Kyrgyz;Shotmaniacs;Earnit;Topicus;Notebridge;Inter-actief;IMP;Male;Rosen;2
+288;B-TCS;Dutch;Shotmaniacs;Earnit;Topicus;Notebridge;Inter-actief;SPE;Male;Rosen;2
+289;B-TCS;Spanish;Shotmaniacs;Earnit;Topicus;Notebridge;Inter-actief;SPE;Male;Rosen;2
+291;B-TCS;Kazakh;Topicus;Shotmaniacs;Earnit;Voice;Rosen;SHA;Male;Rosen;3
+292;B-BIT;Lithuanian;Topicus;Shotmaniacs;Earnit;Voice;Rosen;PLA;Male;Rosen;3
+293;B-TCS;Dutch;Topicus;Shotmaniacs;Earnit;Voice;Rosen;COM;Male;Rosen;3
+294;B-BIT;Lithuanian;Topicus;Shotmaniacs;Earnit;Voice;Rosen;IMP;Male;Rosen;3
+295;B-TCS;Dutch;Topicus;Shotmaniacs;Earnit;Voice;Rosen;PLA;Male;Rosen;3
+298;B-BIT;Romanian;Shotmaniacs;Voice;Entweder;Rosen;actFact;SHA;Male;Shotmaniacs;1
+299;B-TCS;Dutch;Shotmaniacs;Voice;Entweder;Rosen;actFact;COM;Male;Shotmaniacs;1
+300;B-TCS;Dutch;Shotmaniacs;Voice;Entweder;Rosen;actFact;IMP;Male;Shotmaniacs;1
+301;B-BIT;Surinamese;Shotmaniacs;Voice;Entweder;Rosen;actFact;IMP;Male;Shotmaniacs;1
+302;B-TCS;Romanian;Shotmaniacs;Voice;Entweder;Rosen;actFact;SPE;Female;Shotmaniacs;1
+303;B-TCS;French;Shotmaniacs;Voice;Entweder;Rosen;actFact;PLA;Male;Shotmaniacs;1
+304;B-BIT;South Korean;actFact;Shotmaniacs;eMagiz;Notebridge;Entweder;IMP;Female;Shotmaniacs;2
+305;B-TCS;Vietnamese;actFact;Shotmaniacs;eMagiz;Notebridge;Entweder;COM;Female;Shotmaniacs;2
+306;B-TCS & B-AM;Spanish;actFact;Shotmaniacs;eMagiz;Notebridge;Entweder;COM;Male;Shotmaniacs;2
+307;B-TCS;Vietnamese;actFact;Shotmaniacs;eMagiz;Notebridge;Entweder;COM;Female;Shotmaniacs;2
+308;B-BIT;Polish;actFact;Shotmaniacs;eMagiz;Notebridge;Entweder;COO;Male;Shotmaniacs;2
+309;B-TCS;Dutch;actFact;Shotmaniacs;eMagiz;Notebridge;Entweder;TEA;Male;Shotmaniacs;2
+310;B-TCS;French;Shotmaniacs;Honours Programme;Inter-actief;Earnit;eMagiz;IMP;Female;Shotmaniacs;4
+312;B-TCS;Dutch;Shotmaniacs;Honours Programme;Inter-actief;Earnit;eMagiz;SHA;Female;Shotmaniacs;4
+313;B-BIT;Bulgarian;Shotmaniacs;Honours Programme;Inter-actief;Earnit;eMagiz;COM;Male;Shotmaniacs;4
+315;B-BIT;Bulgarian;Shotmaniacs;Honours Programme;Inter-actief;Earnit;eMagiz;TEA;Male;Shotmaniacs;4
+316;B-TCS;British;Shotmaniacs;Honours Programme;Topicus;Voice;Inter-actief;MON;Male;Shotmaniacs;5
+317;B-TCS;Romanian;Shotmaniacs;Honours Programme;Topicus;Voice;Inter-actief;COO;Female;Shotmaniacs;5
+318;B-TCS;Estonian;Shotmaniacs;Honours Programme;Topicus;Voice;Inter-actief;IMP;Male;Shotmaniacs;5
+319;B-TCS;Romanian;Shotmaniacs;Honours Programme;Topicus;Voice;Inter-actief;IMP;Male;Shotmaniacs;5
+320;B-BIT;Romanian;Shotmaniacs;Honours Programme;Topicus;Voice;Inter-actief;SHA;Male;Shotmaniacs;5
+321;B-BIT;Estonian;Shotmaniacs;Honours Programme;Topicus;Voice;Inter-actief;COM;Male;Shotmaniacs;5
+323;B-TCS;Romanian;Shotmaniacs;Topicus;Honours Programme;actFact;Voice;COM;Female;Shotmaniacs;6
+324;B-TCS;Romanian;Shotmaniacs;Topicus;Honours Programme;actFact;Voice;IMP;Male;Shotmaniacs;6
+325;B-TCS;Dutch;Shotmaniacs;Topicus;Honours Programme;actFact;Voice;IMP;Female;Shotmaniacs;6
+326;B-TCS;Peruvian;Shotmaniacs;Topicus;Honours Programme;actFact;Voice;TEA;Male;Shotmaniacs;6
+327;B-TCS;Dutch;Shotmaniacs;Topicus;Honours Programme;actFact;Voice;SPE;Male;Shotmaniacs;6
+328;B-BIT;Romanian;Topicus;Honours Programme;Earnit;Inter-actief;Shotmaniacs;IMP;Male;Topicus;1
+329;B-TCS;Romanian;Topicus;Honours Programme;Earnit;Inter-actief;Shotmaniacs;PLA;Male;Topicus;1
+330;B-TCS;Bulgarian;Topicus;Honours Programme;Earnit;Inter-actief;Shotmaniacs;COM;Male;Topicus;1
+331;B-TCS;Dutch;Topicus;Honours Programme;Earnit;Inter-actief;Shotmaniacs;SPE;Male;Topicus;1
+332;B-TCS;Romanian;Topicus;Honours Programme;Earnit;Inter-actief;Shotmaniacs;SPE;Male;Topicus;1
+333;B-BIT;British;Topicus;Honours Programme;Earnit;Inter-actief;Shotmaniacs;IMP;Male;Topicus;1
+334;B-BIT;Bulgarian;Topicus;Honours Programme;Shotmaniacs;Voice;Earnit;COO;Male;Topicus;2
+335;B-TCS;Romanian;Topicus;Honours Programme;Shotmaniacs;Voice;Earnit;COO;Male;Topicus;2
+336;B-TCS;Bulgarian;Topicus;Honours Programme;Shotmaniacs;Voice;Earnit;COO;Male;Topicus;2
+337;B-TCS;Philippine;Topicus;Honours Programme;Shotmaniacs;Voice;Earnit;TEA;Male;Topicus;2
+338;B-BIT;Iranian;Topicus;Honours Programme;Shotmaniacs;Voice;Earnit;SPE;Male;Topicus;2
+339;B-TCS;Bulgarian;Topicus;Honours Programme;Shotmaniacs;Voice;Earnit;SPE;Male;Topicus;2
+340;B-TCS;Romanian;Shotmaniacs;Topicus;Earnit;Honours Programme;Inter-actief;SHA;Female;Topicus;3
+341;B-BIT;Dutch;Shotmaniacs;Topicus;Earnit;Honours Programme;Inter-actief;PLA;Male;Topicus;3
+342;B-BIT;Dutch;Shotmaniacs;Topicus;Earnit;Honours Programme;Inter-actief;IMP;Male;Topicus;3
+343;B-BIT;Hungarian;Shotmaniacs;Topicus;Earnit;Honours Programme;Inter-actief;COO;Male;Topicus;3
+344;B-TCS;Dutch;Shotmaniacs;Topicus;Earnit;Honours Programme;Inter-actief;SPE;Male;Topicus;3
+345;B-TCS;Dutch;Shotmaniacs;Topicus;Earnit;Honours Programme;Inter-actief;SPE;Male;Topicus;3
+347;B-TCS;Romanian;Topicus;Earnit;Honours Programme;Notebridge;actFact;SPE;Male;Topicus;4
+348;B-BIT;Egyptian;Topicus;Earnit;Honours Programme;Notebridge;actFact;PLA;Male;Topicus;4
+349;B-BIT;Dutch;Topicus;Earnit;Honours Programme;Notebridge;actFact;IMP;Female;Topicus;4
+350;B-TCS;Egyptian;Topicus;Earnit;Honours Programme;Notebridge;actFact;IMP;Male;Topicus;4
+352;B-BIT;Dutch;Topicus;Inter-actief;Entweder;Notebridge;Voice;MON;Male;Topicus;5
+353;B-TCS;Dutch;Topicus;Inter-actief;Entweder;Notebridge;Voice;COO;Male;Topicus;5
+355;B-TCS;Dutch;Topicus;Inter-actief;Entweder;Notebridge;Voice;MON;Male;Topicus;5
+356;B-TCS;Dutch;Topicus;Inter-actief;Entweder;Notebridge;Voice;COM;Male;Topicus;5
+357;B-AT;Yemeni;Topicus;Inter-actief;Entweder;Notebridge;Voice;COM;Male;Topicus;5
+359;B-BIT;Italian;Voice;Topicus;Earnit;Notebridge;Honours Programme;RES;Male;Topicus;6
+360;B-TCS;Portuguese;Voice;Topicus;Earnit;Notebridge;Honours Programme;TEA;Male;Topicus;6
+361;B-TCS;Indonesian;Voice;Topicus;Earnit;Notebridge;Honours Programme;IMP;Male;Topicus;6
+362;B-TCS;Egyptian;Voice;Topicus;Earnit;Notebridge;Honours Programme;COO;Male;Topicus;6
+363;B-BIT;Russian;Voice;Topicus;Earnit;Notebridge;Honours Programme;COO;Male;Topicus;6
+364;B-TCS;Dutch;Voice;Shotmaniacs;Honours Programme;Topicus;Inter-actief;SPE;Male;Voice;1
+365;B-BIT;Dutch;Voice;Shotmaniacs;Honours Programme;Topicus;Inter-actief;MON;Male;Voice;1
+366;B-TCS;Dutch;Voice;Shotmaniacs;Honours Programme;Topicus;Inter-actief;COO;Male;Voice;1
+367;B-TCS;Dutch;Voice;Shotmaniacs;Honours Programme;Topicus;Inter-actief;SPE;Male;Voice;1
+369;B-BIT;Dutch;Voice;Shotmaniacs;Honours Programme;Topicus;Inter-actief;IMP;Male;Voice;1
+370;B-TCS;Dutch;Voice;Inter-actief;Topicus;Honours Programme;actFact;MON;Male;Voice;2
+371;B-TCS & B-AM;Dutch;Voice;Inter-actief;Topicus;Honours Programme;actFact;MON;Male;Voice;2
+372;B-BIT;Albanian;Voice;Inter-actief;Topicus;Honours Programme;actFact;COO;Female;Voice;2
+374;B-TCS;Dutch;Voice;Inter-actief;Topicus;Honours Programme;actFact;SPE;Female;Voice;2
+376;B-TCS;Romanian;Voice;Notebridge;Earnit;Shotmaniacs;Topicus;PLA;Female;Voice;3
+377;B-BIT;Spanish;Voice;Notebridge;Earnit;Shotmaniacs;Topicus;COM;Female;Voice;3
+378;B-BIT;Romanian;Voice;Notebridge;Earnit;Shotmaniacs;Topicus;SPE;Male;Voice;3
+379;B-TCS;Romanian;Voice;Notebridge;Earnit;Shotmaniacs;Topicus;PLA;Male;Voice;3
+380;B-TCS;Dutch;Voice;Notebridge;Earnit;Shotmaniacs;Topicus;SPE;Male;Voice;3
+381;B-TCS;Russian;Voice;Shotmaniacs;Honours Programme;Earnit;Notebridge;PLA;Male;Voice;4
+382;B-TCS;Romanian;Voice;Shotmaniacs;Honours Programme;Earnit;Notebridge;RES;Male;Voice;4
+383;B-TCS;Latvian;Voice;Shotmaniacs;Honours Programme;Earnit;Notebridge;SPE;Male;Voice;4
+384;B-BIT;Dutch;Voice;Shotmaniacs;Honours Programme;Earnit;Notebridge;COM;Male;Voice;4
+385;B-BIT;Spanish;Voice;Shotmaniacs;Honours Programme;Earnit;Notebridge;COO;Male;Voice;4
+386;B-TCS;Bulgarian;Voice;Shotmaniacs;Honours Programme;Earnit;Notebridge;IMP;Male;Voice;4
+387;B-BIT;Dutch;Voice;Earnit;Topicus;Honours Programme;actFact;MON;Male;Voice;5
+388;B-TCS;Romanian;Shotmaniacs;Voice;Topicus;Earnit;eMagiz;SPE;Male;Voice;5
+389;B-TCS;Russian;Voice;Earnit;Topicus;Honours Programme;actFact;IMP;Male;Voice;5
+390;B-TCS;Romanian;Voice;Earnit;Topicus;Honours Programme;actFact;PLA;Male;Voice;5
+391;B-TCS;French;Voice;Earnit;Topicus;Honours Programme;actFact;COO;Male;Voice;5
+392;B-TCS;Dutch;Voice;Earnit;Topicus;Honours Programme;actFact;IMP;Male;Voice;5
+393;B-BIT;Bulgarian;Shotmaniacs;Voice;Topicus;Honours Programme;eMagiz;MON;Male;Voice;6
+394;B-TCS;Latvian;Shotmaniacs;Voice;Topicus;Honours Programme;eMagiz;COM;Male;Voice;6
+395;B-TCS;Vietnamese;Shotmaniacs;Voice;Topicus;Honours Programme;eMagiz;SHA;Male;Voice;6
+396;B-TCS;Greek;Shotmaniacs;Voice;Topicus;Honours Programme;eMagiz;COO;Male;Voice;6
+397;B-TCS;Belgian;Shotmaniacs;Voice;Topicus;Honours Programme;eMagiz;COO;Male;Voice;6
+398;B-BIT;Greek;Shotmaniacs;Voice;Topicus;Honours Programme;eMagiz;TEA;Female;Voice;6
+399;B-TCS;Romanian;Shotmaniacs;Voice;Topicus;Earnit;eMagiz;TEA;Male;Voice;7
+400;B-TCS;Romanian;Shotmaniacs;Voice;Topicus;Earnit;eMagiz;IMP;Male;Voice;7
+401;B-BIT;Indian;Shotmaniacs;Voice;Topicus;Earnit;eMagiz;PLA;Male;Voice;7
+402;B-BIT;Romanian;Shotmaniacs;Voice;Topicus;Earnit;eMagiz;IMP;Male;Voice;7
+403;B-TCS;Romanian;Shotmaniacs;Voice;Topicus;Earnit;eMagiz;IMP;Male;Voice;7
+404;B-BIT;Swiss;Voice;Shotmaniacs;Honours Programme;Topicus;actFact;MON;Male;Voice;7

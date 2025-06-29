@@ -1,7 +1,7 @@
 from collections import Counter
 
 def compute_project_satisfaction(team, project_name):
-    scores = {'Choice 1': 1.0, 'Choice 2': 0.8, 'Choice 3': 0.6, 'Choice 4': 0.4, 'Choice 5': 0.2} # Subject to change.
+    scores = {'Choice 1': 1.0, 'Choice 2': 0.8, 'Choice 3': 0.6, 'Choice 4': 0.4, 'Choice 5': 0.2}
     
     satisfaction_scores = []
     for member in team:
@@ -28,9 +28,10 @@ def compute_belbin_diversity(team):
 
     # Compute Blau index
     proportions = [count / n for count in role_counts.values()]
-    diversity = 1 - sum(p ** 2 for p in proportions)
+    raw_blau = 1 - sum(p ** 2 for p in proportions)
+    adjusted_blau = (n / (n - 1)) * raw_blau
 
-    return diversity # Returns normalized 0-1 score. 0 = no diversity, 1 = max. diversity
+    return adjusted_blau
 
 def evaluate_team(team, project_name, lambda_1=0.5, lambda_2=0.5):
 
@@ -48,8 +49,7 @@ def evaluate_team(team, project_name, lambda_1=0.5, lambda_2=0.5):
     print(f"-> Overall score: {score:.2f}\n")
     return score
 
-def evaluate_all_teams(team_assignments, df, lambda_1=0.5, lambda_2=0.5):
-    df_by_id = df.set_index('ID').to_dict(orient='index')
+def evaluate_all_teams(team_assignments, lambda_1=0.5, lambda_2=0.5):
     
     team_fitness_scores = []
 
@@ -62,3 +62,27 @@ def evaluate_all_teams(team_assignments, df, lambda_1=0.5, lambda_2=0.5):
 
     # Return average fitness for the entire population
     return sum(team_fitness_scores) / len(team_fitness_scores)
+
+def evaluate_objectives_separately(team_assignments):
+    
+    total_diversity = 0.0
+    total_satisfaction = 0.0
+
+    for team in team_assignments:
+
+        print("="*40)
+        print(f"Evaluating team for project: {team.project}")
+        print(f"Members: {[member['ID'] for member in team.members]}")
+        
+        satisfaction = compute_project_satisfaction(team.members, team.project)
+        total_satisfaction += satisfaction
+        print(f"-> Average satisfaction for project '{team.project}': {satisfaction:.2f}")
+
+        diversity = compute_belbin_diversity(team.members)
+        total_diversity += diversity
+        print(f"-> Diversity score: {diversity:.2f}\n")
+
+    avg_div = total_diversity / len(team_assignments)
+    avg_sat = total_satisfaction / len(team_assignments)
+
+    return avg_div, avg_sat
