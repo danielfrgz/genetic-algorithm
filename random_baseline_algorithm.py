@@ -5,7 +5,7 @@ import utils.fitness_functions as ff
 import import_ipynb
 import particle_swarm_optimization as pso
 
-def execute(dataset=pso.DATASET, generations=50, population_size=10):
+def execute(dataset=pso.DATASET, generations=100, population_size=10):
     scores = []
     best_score = 0
 
