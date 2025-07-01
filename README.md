@@ -2,9 +2,7 @@
 
 This repository contains **metaheuristic algorithm implementations** for solving the **Team Formation Problem (TFP)**. 
 
-Developed as part of the Bachelor Thesis project:  
-_"Balancing diversity and preferences: Mono-objective versus Multi-objective Approaches to the Educational Team Formation Problem"_  
-by **Daniel Frutos Rodriguez**.
+Developed as part of the Bachelor Thesis project: _"Balancing diversity and preferences: Mono-objective versus Multi-objective Approaches to the Educational Team Formation Problem"_ by **Daniel Frutos Rodriguez**.
 
 ## Authors and Acknowledgement
 
@@ -14,6 +12,7 @@ Frutos-Rodriguez D., Barrios-Fleitas Y., and Lalla E. 2025. _Balancing diversity
 
 ## Files
 
+```
 📂 data
 ├── 📄 **`2022_23_arrangement.csv`**: Original arrangement (2022/23 Data & Information course).
 ├── 📄 **`corrected_2022_23_arrangement.csv`**: Arrangement corrected for restriction violations.
@@ -62,16 +61,16 @@ Frutos-Rodriguez D., Barrios-Fleitas Y., and Lalla E. 2025. _Balancing diversity
 📄 **`mono_multi_comparison.ipynb`**: Mono-objective algorithm vs. multi-objective algorithm experiment.
 
 📄 **README.md**: This file.
+```
 
+# Usage
 
-## Usage
-
-# Viewing
+## Viewing
 
 Open any figure in `figures/` directory, or `efficiency_time_complexity_statistics.ipynb` to view statistics.
 All files are commented for inspection, adaptation or expansion. `.ipynb` files include markdown labeling/descriptions.
 
-# Experiments
+## Experiments
 
 1. Open any experiment file.
 2. Adjust constants at the top (e.g., `NUMBER_OF_GENERATIONS`, `EFFICIENCY_GOAL`) if desired.
