@@ -12,34 +12,33 @@ Frutos-Rodriguez D., Barrios-Fleitas Y., and Lalla E. 2025. _Balancing diversity
 
 ## Files
 
-```
 📂 data
-├── 📄 **`2022_23_arrangement.csv`**: Original arrangement (2022/23 Data & Information course).
-├── 📄 **`corrected_2022_23_arrangement.csv`**: Arrangement corrected for restriction violations.
-├── 📄 **`corrected_dataset.xlsx`**: Source data with annotations on data cleaning.
-├── 📄 **`data_shuffler.py`**: Util that creates subset datasets while maintaining demographic distributions.
-├── 📄 **`dataset_small.csv`**: Reduced dataset, 50 students.
-├── 📄 **`dataset_medium.csv`**: Reduced dataset, 100 students.
-├── 📄 **`dataset_large.csv`**: Reduced dataset, 200 students.
-├── 📄 **`dataset.csv`**: Cleaned dataset with 278 students.
-├── 📄 **`reduced_dataset_1.csv`**: Reduced dataset with 15 students for optimum benchmarking.
-├── 📄 **`reduced_dataset_2.csv`**: Reduced dataset with 15 students for optimum benchmarking.
-└── 📄 **`reduced_dataset_3.csv`**: Reduced dataset with 15 students for optimum benchmarking.
+📄 **`2022_23_arrangement.csv`**: Original arrangement (2022/23 Data & Information course).
+📄 **`corrected_2022_23_arrangement.csv`**: Arrangement corrected for restriction violations.
+📄 **`corrected_dataset.xlsx`**: Source data with annotations on data cleaning.
+📄 **`data_shuffler.py`**: Util that creates subset datasets while maintaining demographic distributions.
+📄 **`dataset_small.csv`**: Reduced dataset, 50 students.
+📄 **`dataset_medium.csv`**: Reduced dataset, 100 students.
+📄 **`dataset_large.csv`**: Reduced dataset, 200 students.
+📄 **`dataset.csv`**: Cleaned dataset with 278 students.
+📄 **`reduced_dataset_1.csv`**: Reduced dataset with 15 students for optimum benchmarking.
+📄 **`reduced_dataset_2.csv`**: Reduced dataset with 15 students for optimum benchmarking.
+📄 **`reduced_dataset_3.csv`**: Reduced dataset with 15 students for optimum benchmarking.
 
 📂 figures: Folder for figure output.
 
 📂 models
-└── 📄 **`team_assignment.py`**: Team Assignment class for global algorithm use.
+📄 **`team_assignment.py`**: Team Assignment class for global algorithm use.
 
 📂 output
-├── 📄 **`optimal_arrangement_reduced_dataset_1.txt`**: Optimal solution for `reduced_dataset_1`.
-├── 📄 **`optimal_arrangement_reduced_dataset_2.txt`**: Optimal solution for `reduced_dataset_2`.
-└── 📄 **`optimal_arrangement_reduced_dataset_3.txt`**: Optimal solution for `reduced_dataset_3`.
+📄 **`optimal_arrangement_reduced_dataset_1.txt`**: Optimal solution for `reduced_dataset_1`.
+📄 **`optimal_arrangement_reduced_dataset_2.txt`**: Optimal solution for `reduced_dataset_2`.
+📄 **`optimal_arrangement_reduced_dataset_3.txt`**: Optimal solution for `reduced_dataset_3`.
 
 📂 utils
-├── 📄 **`fitness_functions.py`**: Provides method to compute fitness functions for one or all teams in an arrangement.
-├── 📄 **`monoobjective_exhaustive_solver.py`**: Exhaustive solver for optimal solution (to be used with `reduced_dataset_{n}`, n = [1, 2, 3]).
-└── 📄 **`restriction_checker.py`**: Util to check that an input team arrangement meets all restrictions.
+📄 **`fitness_functions.py`**: Provides method to compute fitness functions for one or all teams in an arrangement.
+📄 **`monoobjective_exhaustive_solver.py`**: Exhaustive solver for optimal solution (to be used with `reduced_dataset_{n}`, n = [1, 2, 3]).
+📄 **`restriction_checker.py`**: Util to check that an input team arrangement meets all restrictions.
 
 📄 **`enhanced_genetic_algorithm.ipynb`**: Enhanced Genetic Algorithm Implementation.
 📄 **`non_dominated_sorting_genetic_algorithm_2.ipynb`**: Non-dominated Sorting Genetic Algorithm II Implementation.
@@ -47,7 +46,8 @@ Frutos-Rodriguez D., Barrios-Fleitas Y., and Lalla E. 2025. _Balancing diversity
 📄 **`standard_genetic_algorithm.ipynb`**: Standard Genetic Algorithm Implementation (Deprecated).
 📄 **`random_baseline_algorithm.py`**: Random Baseline Algorithm Implementation.
 
-📄 **`evaluate_assignment.ipynb`**: Evaluates an assignment following the format of `{corrected}_2022_23_arrangement.csv`
+📄 **`evaluate_assignment.ipynb`**: Evaluates an assignment following the format of `{corrected_}2022_23_arrangement.csv`
+📄 **`arrangement_restriction_checker.ipynb`** Evaluates whether an arrangement violates restrictions, following the format of `{corrected_}2022_23_arrangement.csv'
 
 📄 **`ega_parameter_tester.ipynb`**: Parameter setting runs for `enhanced_genetic_algorithm.ipynb`.
 📄 **`ega_parameter_setting_statistics.ipynb`**: Parameter setting statistics for `enhanced_genetic_algorithm.ipynb`.
@@ -61,7 +61,6 @@ Frutos-Rodriguez D., Barrios-Fleitas Y., and Lalla E. 2025. _Balancing diversity
 📄 **`mono_multi_comparison.ipynb`**: Mono-objective algorithm vs. multi-objective algorithm experiment.
 
 📄 **README.md**: This file.
-```
 
 # Usage
 
@@ -80,6 +79,10 @@ All files are commented for inspection, adaptation or expansion. `.ipynb` files 
 
 Performance logs and arrangement outputs are saved under the `output/` directory, categorized by test and organized by timestamp. Figures are saved in `figures/` directory.
 
+## Experimental Data
+
+The experimental output data found in the experiments of _Balancing diversity and preferences: Mono-objective versus Multi-objective Approaches to the Educational Team Formation Problem_ cannot be found on this repository due to file size constraints. To access this data, you can contact the creator through the contact details found at the bottom of this file.
+
 ## Project status
 
 **Complete**
@@ -89,3 +92,7 @@ Performance logs and arrangement outputs are saved under the `output/` directory
 - Extend fitness function with soft constraints, different weights per criterion, new criterion, etc.
 - Attempt time/computational optimizations to existing code.
 - Benchmark against newly developed algorithms with shared data baseline.
+
+## Contact
+
+Daniel Frutos Rodriguez. d.frutosrodriguez@student.utwente.nl
