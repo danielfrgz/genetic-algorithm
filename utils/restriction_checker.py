@@ -4,11 +4,11 @@ def is_valid_team(members):
 
     student_count = len(members)
     if student_count not in [5, 6]:
-        return False
+        return False, f"Invalid number of students ({student_count})."
 
     tcs_count = sum(1 for member in members if 'TCS' in member.get('Program'))
     if tcs_count > 4:
-        return False
+        return False, f"Too many TCS students ({tcs_count})."
 
     nationality_counts = {}
     for member in members:
@@ -17,24 +17,28 @@ def is_valid_team(members):
 
     for nat, count in nationality_counts.items():
         if nat != 'Dutch' and count > 3:
-            return False
+            return False, f"Too many {nat} students ({count})."
 
-    return True
+    return True, None
 
 def is_valid_arrangement(team_arrangement, total_students, projects):
 
+    invalid_reasons = []
+
     # Rules 1-3:
-    if not all(is_valid_team(team.members) for team in team_arrangement):
-        return False
+    for team in team_arrangement:
+            valid, reason = is_valid_team(team.members)
+            if not valid:
+                invalid_reasons.append((team.team_id, reason))
 
     # Rule 4: Each student must be in exactly one team.
     all_ids = [member['ID'] for team in team_arrangement for member in team.members]
 
     unique_ids = set(all_ids)
     if len(all_ids) != total_students:
-        return False  # Some students are missing or duplicated
+        invalid_reasons.append((None, "Some students are missing or duplicated."))
     if len(unique_ids) != total_students:
-        return False  # Some students appear more than once
+        invalid_reasons.append((None, "Some students appear more than once."))
 
     # Rule 5: Maximum number of teams per project = [Ideal number of teams/Number of projects]
     num_teams = len(team_arrangement)
@@ -47,6 +51,9 @@ def is_valid_arrangement(team_arrangement, total_students, projects):
 
     for project, count in project_counts.items():
         if count > max_per_project:
-            return False
-        
-    return True
+            invalid_reasons.append((None, f"{count} teams are doing the {project} project, out of a maximum of {max_per_project} teams."))
+
+    if len(invalid_reasons) == 0:
+        return True, None
+    else:
+        return False, invalid_reasons
